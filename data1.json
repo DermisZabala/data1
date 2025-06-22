@@ -1557,17 +1557,8 @@
         "Lorraine Bracco",
         "Paul Sorvino"
       ],
+      "type": "Película",
       "sources": [
-        {
-          "language": "Español",
-          "server_name": "Vidhide",
-          "embed_url": "https://vidhidepro.com/v/lgm6rhhl5o6s"
-        },
-        {
-          "language": "Español",
-          "server_name": "Netu",
-          "embed_url": "https://waaw.to/f/zLIlCtEbFBdt"
-        },
         {
           "language": "Español",
           "server_name": "Streamtape",
@@ -1575,8 +1566,23 @@
         },
         {
           "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/0T3zzhhh194s"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/lgm6rhhl5o6s"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/tkjgwbz5cnml"
+        },
+        {
+          "language": "Español",
           "server_name": "Filemoon",
-          "embed_url": "https://filemoon.sx/e/140f8juatphx"
+          "embed_url": "https://filemoon.sx/e/4pxhghp447gn"
         },
         {
           "language": "Español",
@@ -1585,33 +1591,28 @@
         },
         {
           "language": "Español",
-          "server_name": "Doodstream",
-          "embed_url": "https://doodstream.com/e/n6zqt6dhw8t9"
-        },
-        {
-          "language": "Español",
           "server_name": "Streamwish",
           "embed_url": "https://streamwish.to/e/vzz20nnz0dn2"
         },
         {
           "language": "Subtitulado",
-          "server_name": "Voesx",
-          "embed_url": "https://voe.sx/e/hlsprldh1gsr"
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/769"
         },
         {
           "language": "Subtitulado",
-          "server_name": "Netu",
-          "embed_url": "https://waaw.to/f/zm0B7KKyovrG"
-        },
-        {
-          "language": "Subtitulado",
-          "server_name": "Doodstream",
-          "embed_url": "https://doodstream.com/e/cvqmpif61z65"
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/GQ8jOkeOrqf1KDR"
         },
         {
           "language": "Subtitulado",
           "server_name": "Vidhide",
           "embed_url": "https://vidhidepro.com/v/63fna1tyqh2z"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/tq5zm86cldmf"
         }
       ]
     },
@@ -2761,6 +2762,3087 @@
           "language": "Subtitulado",
           "server_name": "Vidsrc",
           "embed_url": "https://vidsrc.to/embed/movie/3035"
+        }
+      ]
+    },
+    {
+      "id": 483,
+      "imdb_id": "tt0100935",
+      "title": "Corazón salvaje",
+      "overview": "Durante un permiso carcelario, Sailor va a ver a su novia Lula y ambos deciden huir a California. La madre de la chica, que se opone a esta relación, se pone en contacto con un mafioso para que elimine a Sailor.",
+      "poster_path": "/xKMJu2wDMmluBkMmrEdShxDPRGx.jpg",
+      "backdrop_path": "/gy4RzOcJsRpJXOnZ7bWJEbE9UZ2.jpg",
+      "release_date": "1990-08-17",
+      "rating": "7.0",
+      "genres": [
+        "Crimen",
+        "Suspense",
+        "Romance"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Laura Dern",
+        "Diane Ladd",
+        "Willem Dafoe",
+        "Harry Dean Stanton"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/maen8q6oocng"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/gnepqc483pb7"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/a202xpjt3878"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/KQrc98mYmIZb"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/353nu3ff8hgk"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/483"
+        }
+      ]
+    },
+    {
+      "id": 9768,
+      "imdb_id": "tt0099329",
+      "title": "Cry Baby (El lágrima)",
+      "overview": "Años cincuenta. Eisenhower es el Presidente de los Estados Unidos. En el ambiente musical domina el Rock. Wade \"El lágrima\" Walker, el chico más malo del instituto, es un joven irresistible cuya habilidad para llorar una sola lágrima vuelve locas a las chicas. Especialmente a Allison Vernon-Williams, una rica y bella jovencita que se siente irracionalmente atraída por este delincuente juvenil y su mundo de rock, coches rápidos y mujeres aún más rápidas.",
+      "poster_path": "/d3t6ym1n5JHfwMyoBuMJWDK0OYo.jpg",
+      "backdrop_path": "/hExj5Q2lrXZCjZQT0N9j3MHpa9n.jpg",
+      "release_date": "1990-04-06",
+      "rating": "6.5",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ],
+      "cast": [
+        "Johnny Depp",
+        "Amy Locane",
+        "Susan Tyrrell",
+        "Iggy Pop",
+        "Ricki Lake"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/Vdxvlv7D8WsO4Z"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/eaaqm6ybuz8a"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/7u9i4gwjffmu"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/bpfpmakozpuj"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/ilpa12jqkv3u"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/MsT3vzi2Y5Ku"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/pi3c48td2wtn"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/9768"
+        }
+      ]
+    },
+    {
+      "id": 19384,
+      "imdb_id": "tt0099817",
+      "title": "Dark Angel: Ángel de la muerte",
+      "overview": "Jack Kane, un detective de Houston poco convencional, sigue los pasos de una banda de traficantes, conocida como 'Los Blancos', responsables del robo de una partida de heroína de una central de policía y la posterior explosión de la misma. Poco después, algunos de los miembros de la banda aparecen muertos, con unos cortes en el cuello producidos por un arma imposible de identificar. De la droga, no queda ni rastro. El FBI entra en el caso y a Kane le asignan un nuevo compañero, Laurence Smith, con el que mantiene grandes diferencias. Nuevas muertes se repiten en la ciudad, todas producidas por sobredosis de heroína, al parecer de la partida desaparecida, y los cuerpos encontrados muestran extrañas heridas en la frente. Kane y Smith sospechan que se enfrentan a algo desconocido.",
+      "poster_path": "/cyoHaQiew5zk6ZSYLAHbSRkbrbc.jpg",
+      "backdrop_path": "/3a3Ch56Y7n8ouiAXPdFDmVLnvWz.jpg",
+      "release_date": "1990-01-26",
+      "rating": "5.9",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción",
+        "Crimen",
+        "Terror"
+      ],
+      "cast": [
+        "Dolph Lundgren",
+        "Brian Benben",
+        "Betsy Brantley",
+        "Matthias Hues",
+        "Jay Bilas"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/nl46zvcji8wt"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/8mgz24z79e23"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/ewmzk1oz5im9"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/h3fyi2or297f"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/jWZrQXA8ivpi"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/8n3599g6mct1"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/19384"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/7uq1ohq38n7g"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/kgATj5cbej2q"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/gr3fmbmmq9a8"
+        }
+      ]
+    },
+    {
+      "id": 9556,
+      "imdb_id": "tt0099365",
+      "title": "Darkman",
+      "overview": "Un joven y prometedor científico es víctima de un accidente en su laboratorio cuando unos delincuentes lo destruyen. Está al borde de la muerte, pero consigue sobrevivir a pesar de que queda en un estado lamentable. Utiliza sus descubrimientos sobre piel sintética en sí mismo y prepara su venganza contra los que le atacaron.",
+      "poster_path": "/8cu89O1r0CmLTZTBnosS7YfC9Vn.jpg",
+      "backdrop_path": "/gzj6i2yOON6i30NrihTsDWEYOm7.jpg",
+      "release_date": "1990-08-24",
+      "rating": "6.4",
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "cast": [
+        "Liam Neeson",
+        "Frances McDormand",
+        "Colin Friels",
+        "Larry Drake",
+        "Nelson Mashita"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/yIOFHJeAq5vG"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/oz89vr9y8lbg"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/cxj5t3psu1ek"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/WX6wMWwrwjUb9Dj"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/uijcnzfhznf1"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/oz2u5lcb91no"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/6lll24sx6b25"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/9556"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "imdb_id": "tt0100403",
+      "title": "Depredador 2",
+      "overview": "Un grupo de policías de Los Angeles se enfrenta a un misterioso asesino que descuartiza a sus víctimas con un salvajismo inusitado. Pronto, el jefe del grupo, el capitán Harrigan, descubrirá que su enemigo es un alienígena llegado a la Tierra con el único propósito de practicar la caza.",
+      "poster_path": "/92Lqy293CqAExYXlqDc456eYCWp.jpg",
+      "backdrop_path": "/7PoWlbQg7ZxgwofFRrkytvpLvJD.jpg",
+      "release_date": "1990-11-21",
+      "rating": "6.3",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Suspense"
+      ],
+      "cast": [
+        "Danny Glover",
+        "Gary Busey",
+        "Rubén Blades",
+        "María Conchita Alonso",
+        "Bill Paxton"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/1aswsk7144bn"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/DGzwWzdGpPTVpO"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/g4voz71qn74p"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/1lacizkZOtuZ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/qdmcg9xwlkjx"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/fkwtjw2ugd58"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/pj2u47k1zxt2"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/tooq6yftf1ik"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/GEY0VECbiatY"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/auaki131chmd"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/7xmh0of6r1bu"
+        }
+      ]
+    },
+    {
+      "id": 861,
+      "imdb_id": "tt0100802",
+      "title": "Desafío total",
+      "overview": "Tierra, año 2084. Doug Quaid, un hombre normal con una vida tranquila, está atormentado por una pesadilla que le lleva todas las noches hasta Marte. Decide entonces recurrir al laboratorio Memory-call, una empresa de vacaciones virtuales que le ofrece la oportunidad de materializar su sueño gracias a un fuerte alucinógeno. Sin embargo, su intento resulta en fracaso. La droga resucita de su memoria una estancia verdadera en Marte cuando era el más temido agente del cruel Coohagen.",
+      "poster_path": "/v7DoneFNYIrCGeNFiPrqGiQlimN.jpg",
+      "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+      "release_date": "1990-06-01",
+      "rating": "7.3",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Arnold Schwarzenegger",
+        "Rachel Ticotin",
+        "Sharon Stone",
+        "Ronny Cox",
+        "Michael Ironside"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/qej89s4zwjh1"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/b9p8shqef9op"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/yanunumbt5ix"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/F2Uvg1tWJCrG"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/f5cmemssfjit"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/r36ilakwgnjo"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/Zo9RqGYjGQTqzr6"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/VkZJkgDwbaTK78o"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/flsqhtk2ogrh"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/49xmyxoy5ca1"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/861"
+        }
+      ]
+    },
+    {
+      "id": 11005,
+      "imdb_id": "tt0099077",
+      "title": "Despertares",
+      "overview": "El doctor Malcolm Sayer, un neurólogo neoyorkino decide, a mediados de los años sesenta, aplicar un innovador tratamiento a sus pacientes de encefalitis, enfermedad que priva de las facultades motoras a las personas que la padecen hasta reducirlas a un estado vegetativo. Poco a poco empezará a manifestarse cierta mejoría en los pacientes, especialmente en Leonard Lowe.",
+      "poster_path": "/dkQfTT6hpfll4dzhfC0pNjRwXAe.jpg",
+      "backdrop_path": "/tRKTlMoTsAhYpuq19V8Wk3RFY4O.jpg",
+      "release_date": "1990-12-04",
+      "rating": "7.8",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Robin Williams",
+        "John Heard",
+        "Julie Kavner",
+        "Penelope Ann Miller"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/otccyfkhrzzx"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/VGA2QZ83rwiKm0M"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/f4hf4p2l8m13"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/04tg5qaqmqhf"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/jeo93hrp4m5b"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Kbn5sd3GQPL1"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/ot6cc9h58yab"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/1r8ikjosdiel"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/jkRMvBW12VSLvB"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/4ns9q919j8na"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/zrhl33df0esh"
+        }
+      ]
+    },
+    {
+      "id": 1727,
+      "imdb_id": "tt0099141",
+      "title": "Dos pájaros a tiro",
+      "overview": "Un hombre que vive con una nueva identidad acogido al sistema de protección de testigos es descubierto por su ex-novia, justo en el mismo momento en el que un criminal que acaba de salir de la cárcel trata de vengarse de él...",
+      "poster_path": "/AnbSMZzdNIfPwX3dgyVGXnmSIUI.jpg",
+      "backdrop_path": "/coTUjqmUcrNLhxVISDdAAphemLt.jpg",
+      "release_date": "1990-05-18",
+      "rating": "6.2",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Romance"
+      ],
+      "cast": [
+        "Mel Gibson",
+        "Goldie Hawn",
+        "David Carradine",
+        "Bill Duke",
+        "Stephen Tobolowsky"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/c2Jqm1tuJpfV"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/dxh69d69fkxl"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/8s1ipd9z82oo"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/halemxhm7ytq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/353fw5y914db"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/d4cdduw02mhd"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/tiahflbxu5xh"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/9ezhybgs8iz8"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/udamk2tm2qsk"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/1727"
+        }
+      ]
+    },
+    {
+      "id": 39100,
+      "imdb_id": "tt0142240",
+      "title": "Dragon Ball Z: El más fuerte del mundo",
+      "overview": "Gohan y Oolong van en busca de las Bolas del Dragón que todos han reunido en las montañas Tsurumai-Tsuburi. Antes de que lleguen a ellos, Shenron es convocado por el Dr. Kochin, que desea que el Dr. Wheelo y su laboratorio sean descongelados del hielo irrompible. Luego, los Bio-Man atacan a Gohan quien defiende de sus golpes a Oolong. Viene Piccolo a ayudar al joven saiyan y a Oolong pero en eso es emboscado por tres bio androides misteriosos y es noqueado por ellos. Más tarde, Gohan tiene un sueño extraño donde sale él y Piccolo. Kochin luego secuestra a Roshi y a Bulma, pensando que Kame-Sen'nin es el más fuerte del mundo y sería el candidato perfecto para que el Dr. Wheelo ocupase el cuerpo del maestro de artes marciales, dado que Wheelo carece de cuerpo por un accidente, dejándolo sólo como un cerebro.",
+      "poster_path": "/3ipNfb1BIs6xGORZETfL2rYUy4w.jpg",
+      "backdrop_path": "/xVHgLL32VHlPMl1syvVMuZFSVLM.jpg",
+      "release_date": "1990-03-10",
+      "rating": "6.6",
+      "genres": [
+        "Acción",
+        "Animación",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Masako Nozawa",
+        "Toshio Furukawa",
+        "Mayumi Tanaka",
+        "Hiromi Tsuru",
+        "Kohei Miyauchi"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/qhp9chjqyqwe"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/mpkg0hr200c4"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/jm468waomzpi"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/l5Ari8m6hjeh"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/wflzvrswyq54"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/5htpxhfdu3tt"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/DWbajyPyy6iDVG"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/dw36no3lr5p4"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/f7zja1qquwwr"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/39100"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/7SOECLNzo0jQ"
+        }
+      ]
+    },
+    {
+      "id": 39323,
+      "imdb_id": "tt0142245",
+      "title": "Dragon Ball Z: El último combate",
+      "overview": "Especial para televisión que se ubica en el arco argumental de Dragon Ball Z. Se cuenta la historia del padre de Goku, Bardock, y su intento por salvar su planeta aunque le cueste la vida...",
+      "poster_path": "/mnFEyVcDlSshzl65hEdWoYXtnm3.jpg",
+      "backdrop_path": "/93WDwbpnt40peVQthtBQ6U8FCjr.jpg",
+      "release_date": "1990-10-17",
+      "rating": "7.5",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Ciencia ficción",
+        "Drama",
+        "Fantasía"
+      ],
+      "cast": [
+        "Masako Nozawa",
+        "曽我部和恭",
+        "三田ゆう子",
+        "渡部猛",
+        "Kozo Shioya"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/op9aYX9O79uJw2y"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/0d98fmh21vwv"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/epid7y0wi6iv"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/7iswtlddofym"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/5d8kugyetxsx"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/h8ha6l4rf4in"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/39323"
+        }
+      ]
+    },
+    {
+      "id": 39101,
+      "imdb_id": "tt0142233",
+      "title": "Dragon Ball Z: La super batalla",
+      "overview": "Una extraña nave de exploración llega a la Tierra para ser observada por un desertor de Freezer, Turles junto a los miembros de su equipo. Cuando llegan a la Tierra para sembrar el Árbol Sagrado, que haría que sus poderes aumentaran de manera increíble. Mientras el Kaio del Norte alerta a los Guerreros Z del Árbol Sagrado, Goku y los demás fueron a intentar destruirlo, pero en ese momento aparecen los acólitos de Turles y se enfrentan a los Guerreros Z. Goku lucha por su supervivencia y por la del Planeta Tierra.",
+      "poster_path": "/uGadvCa5w8X6zAWzdZlVQYNd6QR.jpg",
+      "backdrop_path": "/s0XaJEApAfgMgKUBy6UfOnNTtwR.jpg",
+      "release_date": "1990-06-07",
+      "rating": "6.5",
+      "genres": [
+        "Acción",
+        "Animación",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Masako Nozawa",
+        "Mayumi Tanaka",
+        "Hirotaka Suzuoki",
+        "Toru Furuya",
+        "Toshio Furukawa"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/uc1fhafa5vu6"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/90oKBym1oGUZde"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/4uhur5w31b9i"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/hk9474lmlbp4"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/nALgySBdK7LB"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/qsjdxrytoggw"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/39101"
+        }
+      ]
+    },
+    {
+      "id": 2119,
+      "imdb_id": "tt0099371",
+      "title": "Días de trueno",
+      "overview": "Cole Trickle es un joven temerario que busca en la emoción de pilotar un bólido la audacia que le haga perder todos los miedos. Trickle entra con buen pie en el complicado mundo de las carreras. Se sabe rodear de un buen equipo y cuenta además con la ayuda inestimable de Harry, un verdadero amigo que sabe estimular a la joven promesa hasta hacerle alcanzar la gloria.",
+      "poster_path": "/ePPRlLtTJkLLZLG0ekA6d2O83i5.jpg",
+      "backdrop_path": "/voc0qPuvMtJN8cF2tIu1fVvnneu.jpg",
+      "release_date": "1990-06-27",
+      "rating": "6.4",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Drama"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Robert Duvall",
+        "Nicole Kidman",
+        "Randy Quaid",
+        "Cary Elwes"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/j3paalrhkur4"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/1snxypo6we2d"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/2119"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "imdb_id": "tt0099487",
+      "title": "Eduardo Manostijeras",
+      "overview": "Érase una vez... un castillo donde vivía un inventor que dedicó parte de su vida a crear una criatura perfecta a la que llamó Edward. Pero el inventor murió de repente y dejó incompleta su creación, ya que en vez de dedos tenía unas horribles manos con hojas de tijera. El pobre Edward vivía sólo en el castillo hasta que una encantadora joven, que trabajaba para la firma Avon, lo llevó a su casa junto con su familia. Pero una criatura tan especial como Edward no estaba preparada para vivir en una ciudad tan extravagante y falsa como Suburbia.",
+      "poster_path": "/vd8tCekihFx82bzmENaASvbhNmx.jpg",
+      "backdrop_path": "/3Nn5BOM1EVw1IYrv6MsbOS6N1Ol.jpg",
+      "release_date": "1990-12-07",
+      "rating": "7.7",
+      "genres": [
+        "Fantasía",
+        "Drama",
+        "Romance"
+      ],
+      "cast": [
+        "Johnny Depp",
+        "Winona Ryder",
+        "Dianne Wiest",
+        "Anthony Michael Hall",
+        "Kathy Baker"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/9xjbp539k6ne"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/i00glmsadpcg"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/au6fksou5se0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/wYll1zx16MsJkyW"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/8sodpo2n7jpa"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/X64K8Ke6ZH9q"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/ilp8au8hc0wb"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/ailxduq5bjva"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/162"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/wyf8zjydapoi"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/Ga1PDQ3DoPf16qA"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "imdb_id": "tt0099674",
+      "title": "El Padrino Parte III",
+      "overview": "Michael Corleone, heredero del imperio de don Vito Corleone, intenta rehabilitarse socialmente y legitimar todas las posesiones de la familia negociando con el Vaticano. Después de luchar toda su vida se encuentra cansado y centra todas sus esperanzas en encontrar un sucesor que se haga cargo de los negocios. Vincent, el hijo ilegítimo de su hermano Sonny, parece ser el elegido.",
+      "poster_path": "/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg",
+      "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+      "release_date": "1990-12-25",
+      "rating": "7.4",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "cast": [
+        "Al Pacino",
+        "Diane Keaton",
+        "Talia Shire",
+        "Andy García",
+        "Eli Wallach"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/46xgX8GO6eHKvvZ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Wolfstream",
+          "embed_url": "https://wolfstream.tv/e/i83a60a44qt2"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/y7bbf5fhzix4"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/O9RfNI5u5LVk"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/6qpd4rbdibwx"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/u9tZUE9MIOAR"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/242"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/gtg1816vobru"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/zDv2qxo9rVug7a"
+        }
+      ]
+    },
+    {
+      "id": 9558,
+      "imdb_id": "tt0099939",
+      "title": "El rey de Nueva York",
+      "overview": "Violento film de gángsters que relata los intentos de un traficante de drogas por recuperar su \"territorio\" perdido mientras cumplía prisión. En Nueva York el crimen se hace a la manera de Frank o no se hace. Recién salido de la prisión, Frank White se reúne con su antigua banda para retomar su posición como \"señor de la droga\" de la ciudad. Se enfrentarán en sangrientas batallas al resto de capos de la ciudad y lucharán por estar en la cima. Incapaces de volver a poner a Frank entre rejas, la policía también les declara la guerra.",
+      "poster_path": "/ogU1DgalBtVNNiKP4t6LPDjyaij.jpg",
+      "backdrop_path": "/gIpMTiTPsuqWnJUU9Ft9U9KIijp.jpg",
+      "release_date": "1990-07-18",
+      "rating": "6.7",
+      "genres": [
+        "Suspense",
+        "Crimen"
+      ],
+      "cast": [
+        "Christopher Walken",
+        "David Caruso",
+        "Laurence Fishburne",
+        "Victor Argo",
+        "Wesley Snipes"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/17WgDo9Y8xFdmb"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/9558"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/2ge0WYxARQUKxz"
+        }
+      ]
+    },
+    {
+      "id": 11077,
+      "imdb_id": "tt0100419",
+      "title": "Este chico es un demonio",
+      "overview": "Ben Healy es un agradable personaje que trabaja para su padre, \"Big Ben\" , un tiránico distribuidor de material deportivo, que se está postulando para alcalde.A Ben le encantaría tener un hijo, pero su odiosa esposa Flo, no ha sido capaz de concebir hijos , Ben y Flo van a un orfanato a adoptar un hijo. Entonces el director del orfanato Igor Peabody , les habla sobre un niño de 7 años llamado Junior .",
+      "poster_path": "/8wvEUjgtlKbrTJQG2xtzA7C4naE.jpg",
+      "backdrop_path": "/zP9nH7BpQ2BAmAkfx5FObVkLxrB.jpg",
+      "release_date": "1990-07-27",
+      "rating": "6.1",
+      "genres": [
+        "Comedia",
+        "Familia"
+      ],
+      "cast": [
+        "John Ritter",
+        "Jack Warden",
+        "Michael J. Oliver",
+        "Gilbert Gottfried",
+        "Amy Yasbeck"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/9pbxYU3OWnH5"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/wtecc4h2vzp8"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/ctfsrer7nxf8"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/ipbfez8fxstk"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/bQXdgwVy1rIPaA0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/3ymj231umloq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/8w7kwr6ksuns"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/11077"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "imdb_id": "tt0099653",
+      "title": "Ghost (Más allá del amor)",
+      "overview": "Una pareja de enamorados ve truncada su felicidad cuando él es asesinado por un ladrón. La necesidad de salvar la vida a la chica hace que él permanezca en la Tierra en forma de fantasma, e intente advertirla del peligro que corre. Su único medio de comunicación es una alocada vidente.",
+      "poster_path": "/2l8gBbsO4wu3RVmwwpF820G2NXo.jpg",
+      "backdrop_path": "/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
+      "release_date": "1990-07-13",
+      "rating": "7.2",
+      "genres": [
+        "Fantasía",
+        "Drama",
+        "Suspense",
+        "Misterio",
+        "Romance"
+      ],
+      "cast": [
+        "Patrick Swayze",
+        "Demi Moore",
+        "Whoopi Goldberg",
+        "Tony Goldwyn",
+        "Vincent Schiavelli"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/cnojhxz9093q"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/69wga9bqdzjz"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/5kh8qtwbdi8a"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/kxmi7hcxw4vc"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/ogmXLjjBwLuJ2av"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Dpfwp1qPIhjL"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/uacbk2b2rgof"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/asmpmb2857dw"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/f8r26aaq9s9u"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/1zIiiURTfesB"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/Dj1rvqvxXATkKb3"
+        }
+      ]
+    },
+    {
+      "id": 928,
+      "imdb_id": "tt0099700",
+      "title": "Gremlins 2: La nueva generación",
+      "overview": "Tras la muerte de su cuidador, un simpático Gremlin es llevado a un laboratorio donde se encuentra con su antiguo dueño. Debido a un despiste, el animalillo se moja, multiplicándose en temibles duendecillos que se apoderarán del rascacielos más moderno de Nueva York.",
+      "poster_path": "/th4AlCahUDHJItNutBGhAe48Vc.jpg",
+      "backdrop_path": "/iR3tV8NXFls4UKzPA60D4zrI7Jh.jpg",
+      "release_date": "1990-06-15",
+      "rating": "6.5",
+      "genres": [
+        "Comedia",
+        "Terror",
+        "Fantasía"
+      ],
+      "cast": [
+        "Zach Galligan",
+        "Phoebe Cates",
+        "John Glover",
+        "Robert Prosky",
+        "Robert Picardo"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/d8H8KA0fAPCq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/81m7wi73xnii"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/1v1ukje96j76"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/c1uei68d4xjr"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/V7gdGpQDWeHKBzp"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/hm4btfm62mle"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/928"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/x1hnigiq52au"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Ajkz0Xx14MAT"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/i1jnxzcdn4uj"
+        }
+      ]
+    },
+    {
+      "id": 9086,
+      "imdb_id": "tt0100994",
+      "title": "Intrépidos forajidos",
+      "overview": "Tras una guerra de ganaderos en Nuevo México, las autoridades realizan una limpieza de forajidos. A Billy El Niño no le pueden atrapar y le ofrecen una amnistía a cambio de declarar contra sus antiguos compañeros...",
+      "poster_path": "/cfZxNJiNepAV1Cy0P1b3RJohqkf.jpg",
+      "backdrop_path": "/sQNPWOTzl5kkZTW5ogSu0uSnreB.jpg",
+      "release_date": "1990-08-01",
+      "rating": "6.5",
+      "genres": [
+        "Western",
+        "Aventura"
+      ],
+      "cast": [
+        "Emilio Estevez",
+        "Kiefer Sutherland",
+        "Lou Diamond Phillips",
+        "Christian Slater",
+        "William Petersen"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/5kpb41h9y3lt"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/7bDWHjhoRxpL"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/bf08faqbksld"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/tjb13uvu1lyk"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/DZr7VJkO6YcBgQ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/gvale99p7jez"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/u2jlmtr7d9z7"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/N49AuJuGBg3n"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/9086"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/kwpbk01n0i09"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/k6bucbuu6unn"
+        }
+      ]
+    },
+    {
+      "id": 1669,
+      "imdb_id": "tt0099810",
+      "title": "La caza del Octubre Rojo",
+      "overview": "Un submarino nuclear, bajo el mando de un prestigioso general de la Unión soviética, se interna en el Océano Atlántico con rumbo a los Estados Unidos. La CIA, que ignora si pretende atacarles o desertar de su país, encarga al agente Jack Ryan que se ponga en contacto con él para saber sus verdaderas intenciones. Entretenida cinta de suspense y acción. Fue la primera entrega de una saga sobre las aventuras de Jack Ryan, el brillante analista y agente de la inteligencia americana creado por Tom Clancy.",
+      "poster_path": "/6EGFvgiOaQB7HHV0gD581SKlPM9.jpg",
+      "backdrop_path": "/ysYBfA0VcbJic9CURRmR1QwWaKw.jpg",
+      "release_date": "1990-03-02",
+      "rating": "7.4",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Suspense"
+      ],
+      "cast": [
+        "Sean Connery",
+        "Alec Baldwin",
+        "Scott Glenn",
+        "Sam Neill",
+        "James Earl Jones"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/7deq8mgyv7r2"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/p69rwaydyweu"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/pidCUeA11vmz"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/dV8OeVgMlBtkq2r"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/gyb25nr093mk"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/ctr3qk72kdgr"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/y9z5plmqiosn"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/ehb9rlwenvo6"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/37kd5vtz4sgj"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/1669"
+        }
+      ]
+    },
+    {
+      "id": 2291,
+      "imdb_id": "tt0099871",
+      "title": "La escalera de Jacob",
+      "overview": "El cartero neoyorkino Jacob Singer intenta evitar que los jirones de su vida terminen de deshilacharse. Lo acosan incesantes flashbacks de su primer matrimonio, de su hijo muerto y de su periodo de servicio en Vietnam. En su nueva esposa busca un asidero hacia la lucidez, pero la línea entre la realidad y el delirio se hace cada vez más delgada. Tim Robbins protagoniza una escalofriante historia de un hombre que desciende al infierno, brillantemente dirigida por Adrian Lyne.",
+      "poster_path": "/1wSyCFk53Xx7kVU76bLEDWk6BgA.jpg",
+      "backdrop_path": "/oubk1SEFtg3Q8eOncFvGQVa6OoP.jpg",
+      "release_date": "1990-11-02",
+      "rating": "7.4",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Terror"
+      ],
+      "cast": [
+        "Tim Robbins",
+        "Elizabeth Peña",
+        "Danny Aiello",
+        "Matt Craven",
+        "Pruitt Taylor Vince"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/m3p2d1691f4m"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/a86udmfqcte1"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/h71iwpef7rqh"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/nYXsa4QxbsGD"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/glt4xdgvxtd1"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/rezeuxknwlrg"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/j1VBY0glSicS"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/x2k6f9ubsv7y"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/301c772k7b0v"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/2291"
+        }
+      ]
+    },
+    {
+      "id": 34636,
+      "imdb_id": "tt0100240",
+      "title": "La historia interminable II: El siguiente capítulo",
+      "overview": "Continuación de las aventuras del joven Bastian Bux. En esta ocasión Bastian, agobiado por su situación en su vida real, recurre de nuevo al libro mágico.",
+      "poster_path": "/bmxZK2By8BsHrfGOlEERIX4TYRA.jpg",
+      "backdrop_path": "/22328gc644F4pZn30nWPPUo4I93.jpg",
+      "release_date": "1990-10-25",
+      "rating": "5.8",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Aventura",
+        "Drama"
+      ],
+      "cast": [
+        "Jonathan Brandis",
+        "Kenny Morrison",
+        "Clarissa Burt",
+        "John Wesley Shipp",
+        "Martin Umbach"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/ltv8g6i027t1"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/8bvr657do9of"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/bftc3aooy7ym"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/2h6hkojnze5g"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/gcXKomqFwLSJ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/uqv0nej1r4nv"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/p4iro9nncraq"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/34636"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/rCWI2GS5hgwb"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/4weivua0kvk1"
+        }
+      ]
+    },
+    {
+      "id": 1573,
+      "imdb_id": "tt0099423",
+      "title": "La jungla 2: Alerta roja",
+      "overview": "Es Navidad. El policía del departamento de Los Angeles, teniente John McLane, espera en el aeropuerto de Dulles de Washington a que aterrice el avión en el que viaja su esposa. Mientras tanto, el coronel del ejército Stuart, un militar bien entrando, expulsado del congreso, junto con otros mercenarios profesionales, montan una base de operaciones cerca de dicho aeropuerto, con el objetivo de liberar a un dictador sudamericano derrocado, considerado el mayor traficante del mundo, y que dentro de 58 minutos aterrizará en Dulles en calidad de prisionero político. Stuart anula todos los sistemas que permiten aterrizar a los demás aviones, condenados a permanecer en el aire con el riesgo de agotárseles el combustible. Exige, además, que un Boeing 747 esté a su disposición para huir con el dictador una vez liberado, pero McClane intentará que no prospere...",
+      "poster_path": "/19PBdteqhLAgN6rZUDIU0Ka6qLH.jpg",
+      "backdrop_path": "/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+      "release_date": "1990-07-03",
+      "rating": "7.0",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Bonnie Bedelia",
+        "William Sadler",
+        "John Amos",
+        "Franco Nero"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/dkxqdo5sobwc"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/yth42phih7rv"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/17t426r21u6h"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/vbpcysqplj28"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/OLKfMkLIYMK0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/aa9l9mhi1wo7"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/LO0M2y9VKrTyLR"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/o2pbknk5pv8r"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/IRwDfpwjK7B8"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/o3nj1ayx058w"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/1573"
+        }
+      ]
+    },
+    {
+      "id": 10166,
+      "imdb_id": "tt0100944",
+      "title": "La maldición de las brujas",
+      "overview": "Luke es un niño apasionado por las historias de misterio. Un día, las leyendas contadas por su abuela sobre la existencia de las brujas lo introducen en un mundo misterioso.",
+      "poster_path": "/ptNCuitioUVcJz6RhYMuk5HBWX8.jpg",
+      "backdrop_path": "/hehaK1jIuTOvRPGPccVivZcZ2Cb.jpg",
+      "release_date": "1990-05-25",
+      "rating": "6.9",
+      "genres": [
+        "Fantasía",
+        "Familia",
+        "Terror"
+      ],
+      "cast": [
+        "Jasen Fisher",
+        "Mai Zetterling",
+        "Anjelica Huston",
+        "Charlie Potter",
+        "Rowan Atkinson"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/v02dpmxd2ecq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/bw3sppgqt051"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/nrllazyy2yfi"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/3p0me2bpymum"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/y7qbeADvoJu11PV"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/mcys8msn1vx8"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/D4D8vAHJmGLG"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/omrfslm4htdn"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/v4hjnpia4hg5"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/rIiy3p9i3xl9"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/10166"
+        }
+      ]
+    },
+    {
+      "id": 25018,
+      "imdb_id": "tt0099994",
+      "title": "La matanza de Texas 3",
+      "overview": "Una pareja que se dirige a Florida en plena crisis sentimental se detiene en una gasolinera en mitad del desierto de Texas para repostar gasolina. Allí son acosados por el encargado que, iracundo al ser despreciado por la chica y refrenado por su compañero, ataca con una escopeta a la pareja que milagrosamente consigue huir. En el camino se cruzarán con el temible Leatherface y su moto sierra eléctrica pero nuevamente lograrán escapar, esta vez, por un excursionista armado con un fusil. La familia de caníbales no descansará hasta que estos tres pasen por su parrilla y conseguir su cena...",
+      "poster_path": "/gCMEnRU8CLiA81FNdx9ToBTrNem.jpg",
+      "backdrop_path": "/1XVfmGPQslh25GMJeaggGtYPc9E.jpg",
+      "release_date": "1990-01-12",
+      "rating": "5.3",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "cast": [
+        "Kate Hodge",
+        "Ken Foree",
+        "R.A. Mihailoff",
+        "William Butler",
+        "Viggo Mortensen"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/yHscAoL2yerK"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/4mdqfr5jaaw9"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/25018"
+        }
+      ]
+    },
+    {
+      "id": 53932,
+      "imdb_id": "tt0099484",
+      "title": "Las edades de Lulú",
+      "overview": "Adaptación de la novela homónima de Almudena Grandes. Lulú es una chica de quince años que sucumbe a los atractivos de Pablo, un amigo de la familia. Después de esta experiencia, Lulú alimenta durante mucho tiempo el deseo por ese hombre, que volverá a entrar en su vida años más tarde, prolongando así el juego amoroso de la niñez. Pablo crea para ella un mundo aparte, un universo privado donde el tiempo carece de valor. Pero pronto ese mundo idealizado se quebrará, cuando Lulú, con treinta años, se adentre en el universo de los deseos prohibidos.",
+      "poster_path": "/zwQrgqrMSqidARZrquEjQ10T8bX.jpg",
+      "backdrop_path": "/jz6QSRsQWQUsj8iIdcHltbKkBs3.jpg",
+      "release_date": "1990-12-03",
+      "rating": "6.4",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        "Francesca Neri",
+        "Óscar Ladoire",
+        "María Barranco",
+        "Fernando Guillén Cuervo",
+        "Rosana Pastor"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/m48zwznFqeaq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/rpu6l2brleba"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/1uoe5rb2fws1"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/e1eh61nyy9y9"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/irhmer12p44k"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/53932"
+        }
+      ]
+    },
+    {
+      "id": 17466,
+      "imdb_id": "tt0099385",
+      "title": "Libertad para morir",
+      "overview": "Jean Claude Van Damme da vida a un oficial, un astuto detective que investiga a una serie de presos que se encuentran en la penitenciaria de Harrison, haciéndose pasar por uno más de los allí encarcelados. Pero tendrá que intentar escapar de la prisión cuando descubra el sorprendente secreto que se encuentra detrás de los trabajos internos que se llevan a cabo en la cárcel, enfrentándose a cientos de presos realmente brutales, a los guardias corruptos y a un enemigo mortal del pasado que no parará hasta verlo muerto...",
+      "poster_path": "/gzAc9X9HNaITD0GKvjlpvDBIXsb.jpg",
+      "backdrop_path": "/mYiTorq97lCQHUDTbk7M4jiT5B0.jpg",
+      "release_date": "1990-09-14",
+      "rating": "6.2",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense",
+        "Misterio"
+      ],
+      "cast": [
+        "Jean-Claude Van Damme",
+        "Robert Guillaume",
+        "Cynthia Gibb",
+        "Patrick Kilpatrick",
+        "Art LaFleur"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/gi5ox49kem7g"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/6sm41aeipfes"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/6DBrtLTI6lAN"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/Y82e9rlQQoiBBK"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/o7d6t5y5xusg"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/izfibywepwuj"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/sr86dg2zii6w"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/17466"
+        }
+      ]
+    },
+    {
+      "id": 9399,
+      "imdb_id": "tt0100029",
+      "title": "Lionheart, el luchador",
+      "overview": "León Gualtier es un desertor en la Legión Extranjera que llega a los EE.UUy encuentra a su hermano entre la vida y la muerte y a su cuñada sin dinero para curar a su marido y mantener su hija. Para ganar el dinero necesario, Gualtier acepta para participar en peleas clandestinas.",
+      "poster_path": "/j4pTOgrUqPSXrDDLKDDAaaiN805.jpg",
+      "backdrop_path": "/aYBEOdcoOsEGNFdEcMYhvFrELyR.jpg",
+      "release_date": "1990-06-07",
+      "rating": "6.6",
+      "genres": [
+        "Acción"
+      ],
+      "cast": [
+        "Jean-Claude Van Damme",
+        "Harrison Page",
+        "Lisa Pelikan",
+        "Ashley Johnson",
+        "Deborah Rennard"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/t3gmdbndu004"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/r0jqrto9rcqq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/LL7ski1HoILY"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/axokntc4u1of"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/dapleey4gba3"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/mlBV7mzKRkUb3mp"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/0t8zslzanr03"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/9399"
+        }
+      ]
+    },
+    {
+      "id": 1551,
+      "imdb_id": "tt0099582",
+      "title": "Línea mortal",
+      "overview": "Cinco estudiantes de medicina deciden experimentar en ellos mismos lo que se esconde más allá de la muerte. Para ello fuerzan la paralización del corazón y el cerebro de cada uno hasta que los monitores que indican los signos vitales no muestren más que una línea horizontal. Tras esto, uno de los miembros procede a reavivar el cuerpo inerte. Tras el éxito de la primera de las experiencias se animan a permanecer cada vez más tiempo \"muertos\".",
+      "poster_path": "/mKhbJt9hUBpT8MOyynMoip4zkiC.jpg",
+      "backdrop_path": "/hXzECstugCzUCF9GT4eEMlPn9Pj.jpg",
+      "release_date": "1990-08-10",
+      "rating": "6.5",
+      "genres": [
+        "Drama",
+        "Ciencia ficción",
+        "Terror"
+      ],
+      "cast": [
+        "Kiefer Sutherland",
+        "Julia Roberts",
+        "Kevin Bacon",
+        "William Baldwin",
+        "Oliver Platt"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/G6VpWWrp3Xs1RMd"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/z40swtv7xfld"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/y9tpbvhliiw4"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/r2zsudvwlvw5"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/2ualswdkhloy"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/khjczr48z13u"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/YpjGxKLPBAuvVgG"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/1551"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/v3b1r7vx22kh"
+        }
+      ]
+    },
+    {
+      "id": 12651,
+      "imdb_id": "tt0100133",
+      "title": "Memphis Belle",
+      "overview": "Drama ambientado en la Segunda Guerra Mundial basado en los documentales realizados durante 1943 por el director americano William Wyler. La historia se centra en la tripulación de \"Memphis Belle\", un enorme bombardero  del ejército aliado. Los diez jóvenes americanos que componen su tripulación han sobrevivido a veinticuatro incursiones, y esperan recibir instrucciones para su última misión antes de volver a casa. Piensan que se tratará de algo sencillo, pero para su sorpresa, reciben la orden de bombardear Dresden, Alemania. Ésto supone un gran riesgo, y posiblemente alguno de ellos pierda la vida.",
+      "poster_path": "/3MsqqHQR8TfHxcaNCGBgx7vRrSf.jpg",
+      "backdrop_path": "/8kVhN0OC5AmdHJJ1BxKCakZhvQO.jpg",
+      "release_date": "1990-09-07",
+      "rating": "6.7",
+      "genres": [
+        "Drama",
+        "Bélica",
+        "Acción"
+      ],
+      "cast": [
+        "Matthew Modine",
+        "Eric Stoltz",
+        "Tate Donovan",
+        "D. B. Sweeney",
+        "Billy Zane"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/wBaJmh1CTOeU"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/s5un5c8epj67"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/lauwwx4cy3qr"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/h5tdzf9uyo96"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/KgyWv08BDpi03qG"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/pk8kkyzmvrxw"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/tnqhujm67twa"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/gposg89nfyfi"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/xgj7gogi3u63"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/12651"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/fcepbnz4ejv7"
+        }
+      ]
+    },
+    {
+      "id": 9356,
+      "imdb_id": "tt0100050",
+      "title": "Mira quien habla también",
+      "overview": "John, el taxista que quiere ser piloto de aviones, se ha casado con Molly, la madre de Mickey. Éste ha aprendido a dar sus primeros pasos y a pronunciar sus primeras palabras. También posee la clásica habilidad infantil para tirar cualquier objeto que encuentre a su paso. Por si fuera poco, nace Julie, su hermanita, dotada con idéntico sarcasmo.",
+      "poster_path": "/tY9cqNnlMnc3vR11LdSxvBl3ERe.jpg",
+      "backdrop_path": "/6KIAGiR2F4ffzZu8lXyxP2JliXk.jpg",
+      "release_date": "1990-12-14",
+      "rating": "5.5",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "cast": [
+        "John Travolta",
+        "Kirstie Alley",
+        "Olympia Dukakis",
+        "Elias Koteas",
+        "Twink Caplan"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/nank6qzhejni"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/pew93g8zq0fu"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/dos1fa72w31u"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/R0y2Q9j4YrzR"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/atbdraauuhjx"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/9356"
+        }
+      ]
+    },
+    {
+      "id": 1700,
+      "imdb_id": "tt0100157",
+      "title": "Misery",
+      "overview": "Un escritor llamado Paul Sheldon lleva años malgastando su talento con unas románticas historias, de gran éxito comercial, cuya protagonista es una mujer llamada Misery. Decidido a acabar con esta situación, mata al personaje y se refugia en Colorado para escribir una novela seria. Terminado su trabajo, emprende el regreso, pero en una carretera de montaña, pierde el control de su coche y sufre un grave accidente. Annie Wilkes, una brusca e impetuosa mujer, gran admiradora suya, lo rescata, se lo lleva a su casa y lo cuida con esmero. Obsesionada con el personaje de Misery, retiene a Sheldon para obligarlo a escribir una nueva historia en la que resucite al personaje.",
+      "poster_path": "/gAELWNF6ViSF5OG1fibPvUbtnZn.jpg",
+      "backdrop_path": "/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg",
+      "release_date": "1990-11-30",
+      "rating": "7.7",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "cast": [
+        "James Caan",
+        "Kathy Bates",
+        "Richard Farnsworth",
+        "Frances Sternhagen",
+        "Lauren Bacall"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/36q0babw52yj"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/onr70i9gs0wo"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/oOCjet619eWb"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/15mlp8rwgwh5"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/dqkrwueg3fvb"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/7BXrrbome6hA7GV"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/jupvmis0ab8c"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/lwitvgrnms5t"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/homfmeybqyog"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/1700"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/pQkfZntu4VFr"
+        }
+      ]
+    },
+    {
+      "id": 11186,
+      "imdb_id": "tt0099253",
+      "title": "Muñeco diabólico 2",
+      "overview": "Chucky ha vuelto. El famoso muñeco asesino de sonrisa satánica resucita en este nuevo episodio. A pesar de que en su última escapada quedó totalmente achicharrado, Chucky resurge de sus cenizas cuando una fábrica de juguetes decide reconstruirlo para acabar con la mala publicidad que la rodea. Chucky vuelve a estar entero y sigue la pista de su presa hasta una familia de acogida..",
+      "poster_path": "/rUdnnVcmo1AOcfanEbU4b2f2QFP.jpg",
+      "backdrop_path": "/h8n7enoDRJq9n8tE8xcdr6W72Pe.jpg",
+      "release_date": "1990-11-09",
+      "rating": "6.3",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "cast": [
+        "Alex Vincent",
+        "Brad Dourif",
+        "Christine Elise",
+        "Jenny Agutter",
+        "Gerrit Graham"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/i06dnhooibq1"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/1JWYXgqBvqIejGP"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/npowjqli1w8b"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/2536uh58b75k"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/npb5ptnruv7c"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/wSpL1ONeG8zr"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/k8lbg4ivfr9e"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/d3yezit3gn3z"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/r2iwgvmxkr7w"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/11186"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/y4622tj7mbkp"
+        }
+      ]
+    },
+    {
+      "id": 427910,
+      "imdb_id": "tt0100232",
+      "title": "Navy Seals, comando especial",
+      "overview": "El teniente James Curran, un oficial naval muy profesional, encabeza el pelotón de los Navy Seals, un comando americano de élite. La próxima misión de los Seals es destruir los misiles antes de que los utilice el líder del grupo radical Al Shuhada. Los Seals tienen hasta el amanecer para cumplir su casi imposible misión.",
+      "poster_path": "/7IbbJuwLZi3oNLQySjAVYLlhq16.jpg",
+      "backdrop_path": "/1dlJhuZMQHs0UYGrE22nKvroe6j.jpg",
+      "release_date": "1990-07-20",
+      "rating": "5.3",
+      "genres": [
+        "Acción"
+      ],
+      "cast": [
+        "Charlie Sheen",
+        "Michael Biehn",
+        "Joanne Whalley",
+        "Rick Rossovich",
+        "Cyril O'Reilly"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/jqol67ge84d5"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/udup7s5pvew5"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/ShDMIQP8AtMQ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/jk8u37qvn6py"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/9rko9zdpz6rb"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/u28jn1jxed20"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/ngw18hwy8b13"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Lk0qJxwNX3TV"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/jvy5ra6z7ke5"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/e8jb0a9d397n"
+        }
+      ]
+    },
+    {
+      "id": 951,
+      "imdb_id": "tt0099938",
+      "title": "Poli de guardería",
+      "overview": "Arnold Schwarzenegger protagoniza a un policía encubierto, que se hace pasar por un maestro de guardería para atrapar a un peligroso criminal. Tras haberse ganado el cariño de los niños y el afecto de una preciosa maestra , se prepara para el momento decisivo con la presa deseada en esta comedia de acción tan divertida del director Ivan Reitman.",
+      "poster_path": "/zYwEZ7TWFAAuZucUJmWLktfLCEN.jpg",
+      "backdrop_path": "/qWP5TlH1448Pt9ayyuLZJY0NXWj.jpg",
+      "release_date": "1990-12-21",
+      "rating": "6.1",
+      "genres": [
+        "Comedia"
+      ],
+      "cast": [
+        "Arnold Schwarzenegger",
+        "Penelope Ann Miller",
+        "Pamela Reed",
+        "Linda Hunt",
+        "Richard Tyson"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/dz2sfwtdbmf4"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/ro56x89yt40e"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/efemow7rz58e"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/E2Gb2KnEa21V"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/8h87q6e2u5su"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/951"
+        }
+      ]
+    },
+    {
+      "id": 11092,
+      "imdb_id": "tt0100404",
+      "title": "Presunto inocente",
+      "overview": "Un prestigioso abogado (Harrison Ford) de la oficina del fiscal del distrito es acusado de la violación y muerte de una colega (Greta Scacchi) con la que mantuvo una tórrida relación extramatrimonial. A pesar de que se declara inocente, parece que todas las pruebas evidencian su culpabilidad.",
+      "poster_path": "/sszy9h6k7GsE2xbXgEAhLDHN8HR.jpg",
+      "backdrop_path": "/dxoYbFNaIBhtOUb1Q3tEOuSdwMc.jpg",
+      "release_date": "1990-07-27",
+      "rating": "6.8",
+      "genres": [
+        "Misterio",
+        "Crimen",
+        "Suspense"
+      ],
+      "cast": [
+        "Harrison Ford",
+        "Brian Dennehy",
+        "Raúl Juliá",
+        "Bonnie Bedelia",
+        "Paul Winfield"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/fszgdluv9r5z"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/CjsvMcFlgQoM"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/w9z170ke58xp"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/tikkojwftmcg"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/u36svopezq71"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/l187jiqrvxvp"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/11092"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/iwsf47m7axio"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/5nmo4rc0s2r5"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/2aiwvan4q4sl"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "imdb_id": "tt0100405",
+      "title": "Pretty Woman",
+      "overview": "Un acaudalado y frío hombre de negocios conoce en Hollywood Boulevard a una joven y atractiva prostituta a la que alquila durante una semana para que sea su acompañante en sus cenas con los clientes. Para ello la chica se verá sometida a todo un cambio de look tras el que nadie podrá ver, a simple vista, que es una chica de la calle.",
+      "poster_path": "/iKaKr8aUqOy1aojENu5XuwBI8Uj.jpg",
+      "backdrop_path": "/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
+      "release_date": "1990-03-23",
+      "rating": "7.5",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "cast": [
+        "Richard Gere",
+        "Julia Roberts",
+        "Jason Alexander",
+        "Ralph Bellamy",
+        "Alex Hyde-White"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/6n8w0hdqzhxt"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/41e3evbn00zu"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/8ugeeqgtke4x"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/ps8tsi7sq80g"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/dcIMXIPLypPh"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/1J87Y1qv04ueWWK"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/avpfq77yxnix"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/ysepwp2kzipn"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/ieruidrri3de"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/nn86Rhb8bmjr"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/ebmg8a8v4z6q"
+        }
+      ]
+    },
+    {
+      "id": 40377,
+      "imdb_id": "tt0102724",
+      "title": "Psicosis IV: El comienzo",
+      "overview": "Durante un \"talk show\" de radio, un desconocido llama y comienza a recordar pasajes de su torturada niñez y adolescencia, sometido bajo su tiránica madre. ¿Es posible que se trate del famoso Norman Bates, recién dado de alta en un sanatorio? Al confirmarse esta sospecha, los aterrados locutores de la radio escuchan que Norman, \"para salvar al mundo\", volverá al Motel Bates donde, una vez más, volverá a derramar sangre inocente...",
+      "poster_path": "/icHMCEp6oeExOuGafhc7qT9FBan.jpg",
+      "backdrop_path": "/1n5pOyD8aseJ5oyPY3RlK5SS1hW.jpg",
+      "release_date": "1990-11-10",
+      "rating": "5.7",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense",
+        "Película de TV"
+      ],
+      "cast": [
+        "Anthony Perkins",
+        "Henry Thomas",
+        "Olivia Hussey",
+        "CCH Pounder",
+        "Warren Frost"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Ko2OYZTjIYtq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/WPjbk18Q4gIeJa"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/z0lm813dckn4"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/bjmvlc6x3f3g"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/fcnstzlqr8aq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/0bxshgac3f82"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/m653njxbkajs"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/2oGmNON3xSgL"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/ba8t0p9mmips"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/40377"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/jgkkh39nflts"
+        }
+      ]
+    },
+    {
+      "id": 20481,
+      "imdb_id": "tt0100260",
+      "title": "Razas de noche",
+      "overview": "Las razas de la noche son unas criaturas mutantes, monstruosos e infernales seres de ultratumba, que han permanecido escondidos durante siglos en la subterránea ciudad de Midian. A este inframundo llega un joven obsesionado por terribles y recurrentes pesadillas.",
+      "poster_path": "/qRkKJLHR5c1rhFjhDFugpynxAs0.jpg",
+      "backdrop_path": "/dg6qcLD0IOLBvAq2PPFfllaU1Oj.jpg",
+      "release_date": "1990-02-16",
+      "rating": "6.4",
+      "genres": [
+        "Terror",
+        "Fantasía",
+        "Acción"
+      ],
+      "cast": [
+        "Craig Sheffer",
+        "Anne Bobby",
+        "David Cronenberg",
+        "Charles Haid",
+        "Hugh Quarshie"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/ixymrzf4e86e"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/a0vgsqvhxlfj"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/v2aijgkfiljl"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/YEZZlqa8EkqR"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/mhge7gu5zt3w"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/OY89deX2LptZrBD"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/gcaqt698ocg2"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/ste4xlyo5lkr"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/20481"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/LGYCWFvMaXpS"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/wcvuxvvjtgro"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "imdb_id": "tt0099088",
+      "title": "Regreso al futuro III",
+      "overview": "Marty McFly sigue en 1955 y su amigo Doc ha retrocedido al año 1885, la época del salvaje oeste. Éste le envía una carta donde comenta que la máquina del tiempo está averiada, y que es imposible repararla. Sin embargo no le preocupa estar atrapado en el pasado, pues allí es muy feliz trabajando de herrero aunque convive con malhechores. Pero Marty descubre una vieja tumba en la que lee que Doc murió en 1885 y, sin pensárselo dos veces, irá a rescatar a su amigo.",
+      "poster_path": "/yamBr3ihlWFF9jh3oOODSvjDY2e.jpg",
+      "backdrop_path": "/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+      "release_date": "1990-05-25",
+      "rating": "7.5",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Mary Steenburgen",
+        "Thomas F. Wilson",
+        "Lea Thompson"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/QepKkoGvWMU0jwy"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/koyk2qz4tbyq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/gup06uug3adr"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/n97wnane429d"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/zHAD9tf0aFBx"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/ox6i24ja8lnm"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/3lxjjktsqpiy"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/MYaPeW3M6ohmKr9"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/x7fpbmplhpzy"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/196"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/x023fg6zwm7o"
+        }
+      ]
+    },
+    {
+      "id": 5549,
+      "imdb_id": "tt0100502",
+      "title": "RoboCop 2",
+      "overview": "Bajo un cielo carente de ozono y en una época futurista, la policía de Detroit está en huelga, y las peligrosas bandas criminales dominan a la población. La adicción al Nuke, una poderosa y nueva droga es el pan de cada día. La megacorporación OCP -Omni Consumer Products-, en un intento de reforzar su implacable imperio, pretende apoderarse de la ciudad, para su propia explotación privada. El director de la OCP solicita a la doctora Faxx que reprograme a RoboCop, dejándolo incapaz de luchar contra la delincuencia.",
+      "poster_path": "/bIWSkAKxCUCRuaxef9a9HACwXvN.jpg",
+      "backdrop_path": "/cT0YCYCtAQC8wi56VWK1JRGgk3a.jpg",
+      "release_date": "1990-06-22",
+      "rating": "6.0",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Crimen",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "cast": [
+        "Peter Weller",
+        "Nancy Allen",
+        "Tom Noonan",
+        "Belinda Bauer",
+        "Willard E. Pugh"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/uc171k1yd2qa"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/od0uox2eurf6"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/hqg1mpugqbdj"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/AX6xqaJGGzFX7op"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/dotsmfbmz7uk"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/kwl1y5jq943l"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/z0y1eud9x767"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/39ohlzjsd12v"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/5549"
+        }
+      ]
+    },
+    {
+      "id": 10173,
+      "imdb_id": "tt0100114",
+      "title": "Señalado por la muerte",
+      "overview": "El agente John Hatcher (Steven Seagal), de la división antidroga de Chicago, acaba de volver de Colombia, en donde su compañero ha sido asesinado en acto de servicio por un narcotraficante. A causa de ello ha decidido retirarse, pero después de un tiroteo con un traficante de drogas jamaicano llamado Screwface (Basil Wallace), éste intenta matar a su hermana y a la hija de ésta. John y su amigo Max intentarán atrapar al villano en su país natal.",
+      "poster_path": "/nO0PZLiOlyaLuO6t29pxMNFS5sq.jpg",
+      "backdrop_path": "/rCTf5W1531LiFxJzUhdAcV9EDav.jpg",
+      "release_date": "1990-10-05",
+      "rating": "6.1",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "cast": [
+        "Steven Seagal",
+        "Basil Wallace",
+        "Keith David",
+        "Tom Wright",
+        "Joanna Pacuła"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/tdutwg00ymrl"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/iejl3ilqhp3w"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/okm2qai7upkn"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/5v1s0rrdx4ku"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/gb286joEZM0L"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/jocec2fmv16n"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/kzOJKqbXAlTOzB2"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/kmkg0r64yw7a"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/4ccipsuxcwbs"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/oycd8rg7xj0f"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/10173"
+        }
+      ]
+    },
+    {
+      "id": 9362,
+      "imdb_id": "tt0100814",
+      "title": "Temblores",
+      "overview": "En Perfección, un pequeño pueblo al borde del desierto de Nevada, algo parece suceder debajo de la tierra. Cuando las líneas telefónicas y las carreteras quedan cortadas, los habitantes comienzan a sentir pánico, pues todo parece indicar que hay algo vivo y terrorífico bajo las arenas del desierto.",
+      "poster_path": "/gGg2haDaZF3vklYQXPPQ6ccCNj0.jpg",
+      "backdrop_path": "/grXTsQ4cxBQ7DToJCl93yzA664x.jpg",
+      "release_date": "1990-01-19",
+      "rating": "6.9",
+      "genres": [
+        "Terror",
+        "Acción",
+        "Ciencia ficción",
+        "Comedia"
+      ],
+      "cast": [
+        "Kevin Bacon",
+        "Fred Ward",
+        "Finn Carter",
+        "Michael Gross",
+        "Reba McEntire"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/AA9AqKRvVrFGJZ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/juheoxiuotm9"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/moo6Gomk5vS7"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/npv7xelzls7y"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/ds568nj3qqml"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/rem93sw58qdc"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/0y17jrcsr3oh"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/9362"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/ppku1y1xb58m"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/jdYZ8s4CDgPi"
+        }
+      ]
+    },
+    {
+      "id": 1498,
+      "imdb_id": "tt0100758",
+      "title": "Tortugas Ninja",
+      "overview": "Después de haber sido contaminadas con una misteriosa sustancia química, llamada Ooze, cuatro tortugas que viven en las alcantarillas de Nueva York se transforman y mutan, de repente, en grandes tortugas. Ahora pueden hablar y caminar como un ser humano. Entrenadas por una vieja pero sabia rata (el Maestro Splinter) las cuatro tortugas, Leonardo, Miguel Ángel, Donatello y Rafael, aprenderán técnicas ninja para enfrentarse a los más peligrosos criminales. Sus enemigos son los miembros de una secta llamada \"El clan del pie\", liderada por Shredder, quien quiere convertirse en el amo del mundo.",
+      "poster_path": "/uDJipJy4zwIN9F7stcaTGwfD9yP.jpg",
+      "backdrop_path": "/6teOJJUV5IGaX7ucJv2ONoGGf4e.jpg",
+      "release_date": "1990-03-30",
+      "rating": "6.7",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Familia"
+      ],
+      "cast": [
+        "Brian Tochi",
+        "Josh Pais",
+        "Corey Feldman",
+        "Robbie Rist",
+        "Judith Hoag"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/k1tek1ktv8px"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/kqp9p30k176h"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Wkl8D0akJX6J"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/mexfwf7lu972"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/je5rp46heijs"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/1498"
         }
       ]
     }
