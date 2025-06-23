@@ -6771,18 +6771,18 @@
       "sources": [
         {
           "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/xMLMbyWo8RSkRRj"
+        },
+        {
+          "language": "Español",
           "server_name": "Voesx",
-          "embed_url": "https://voe.sx/e/fqteens6n2zt"
+          "embed_url": "https://voe.sx/e/8bn8s9u5u5iv"
         },
         {
           "language": "Español",
           "server_name": "Netu",
           "embed_url": "https://waaw.to/f/0tspjlJYXVIA"
-        },
-        {
-          "language": "Español",
-          "server_name": "Streamtape",
-          "embed_url": "https://streamtape.com/e/xMLMbyWo8RSkRRj"
         },
         {
           "language": "Subtitulado",
@@ -6796,13 +6796,13 @@
         },
         {
           "language": "Subtitulado",
-          "server_name": "Voesx",
-          "embed_url": "https://voe.sx/e/pxjopr8klsyg"
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/10337"
         },
         {
           "language": "Subtitulado",
-          "server_name": "Vidsrc",
-          "embed_url": "https://vidsrc.to/embed/movie/10337"
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/pxjopr8klsyg"
         }
       ]
     },
@@ -6832,13 +6832,8 @@
       "sources": [
         {
           "language": "Español",
-          "server_name": "Netu",
-          "embed_url": "https://waaw.to/f/G80ixdmJfisV"
-        },
-        {
-          "language": "Español",
-          "server_name": "Streamwish",
-          "embed_url": "https://streamwish.to/e/dbvwe54325zk"
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/ro0xhc3u9hmj"
         },
         {
           "language": "Español",
@@ -6847,18 +6842,3440 @@
         },
         {
           "language": "Español",
-          "server_name": "Voesx",
-          "embed_url": "https://voe.sx/e/2gbvsea7ktdz"
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/qogdx8mcxf6l"
         },
         {
           "language": "Español",
-          "server_name": "Filemoon",
-          "embed_url": "https://filemoon.sx/e/tpc8od4s68ew"
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/G80ixdmJfisV"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/mkqkzcu7x0zi"
         },
         {
           "language": "Subtitulado",
           "server_name": "Vidsrc",
           "embed_url": "https://vidsrc.to/embed/movie/34376"
+        }
+      ]
+    },
+    {
+      "id": 37137,
+      "imdb_id": "tt0102510",
+      "title": "Agárralo como puedas 2 1/2: el aroma del miedo",
+      "overview": "El inefable y patoso teniente de policía Frank Drebbin ha vuelto para salvar a la ciudad, esta vez para enfrentarse a los villanos de la industria energética. Un importante científico, el doctor Mainheimer, está a punto de publicar un informe sobre el suministro energético del futuro que pinta mal para los dueños de las industrias del petróleo, el carbón y la nuclear. Así que las industrias secuestran a Mainheimer y lo reemplazan por un doble más favorable a sus intereses. Jane, la secretaria del doctor, es el viejo amor de Drebbin y su llama pasional volverá a reavivarse.",
+      "poster_path": "/pAwSoQ6aPUJDWNh6WBsaumWioDj.jpg",
+      "backdrop_path": "/yyX9rkYtsxu2srmEugwBA04ipbO.jpg",
+      "release_date": "1991-06-28",
+      "rating": "6.8",
+      "genres": [
+        "Comedia",
+        "Crimen"
+      ],
+      "cast": [
+        "Leslie Nielsen",
+        "Priscilla Presley",
+        "George Kennedy",
+        "O. J. Simpson",
+        "Robert Goulet"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/dvwk1qup6ehh"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/uo72pidg10pp"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/f0a30gyfzxwp"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/j4aXNAJXBDrC"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/rggnriomkgmf"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/0evftxmg0pj3"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/k7mP0klhuLOb"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/37137"
+        }
+      ]
+    },
+    {
+      "id": 14362,
+      "imdb_id": "tt0102614",
+      "title": "Buscando justicia",
+      "overview": "Gino Felino es un detective de policía de Brooklyn que un día recibe una llamada comunicándole que su mejor amigo Bobby Lupo ha sido asesinado, a plena luz del día, en la calle y delante de su esposa y sus hijos, por el capo mafioso Richie Madano, enemigo de ambos desde su juventud. Gino emprenderá una furiosa caza de Madano, que campa descontrolado por la ciudad.",
+      "poster_path": "/dS6AN89NE5RIxCSgSojkGmxQ33l.jpg",
+      "backdrop_path": "/vh4b3D4SOTAQzuPVrZPiETQuUlW.jpg",
+      "release_date": "1991-04-12",
+      "rating": "6.1",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "cast": [
+        "Steven Seagal",
+        "William Forsythe",
+        "Jerry Orbach",
+        "Jo Champa",
+        "Shareen Mitchell"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/2f1lnhzcwryp"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/tx1orgrbzgvs"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/ubdfl0qup1sa"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/8zok6bzrd4CoglY"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/dFvbjUweA84V"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/9bodkoal32pg"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/0mdwjwbh2t5s"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/6toaq3orjgfo"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/wofdgao8ndu0"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/R2eYXKrDBMm1"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/14362"
+        }
+      ]
+    },
+    {
+      "id": 12227,
+      "imdb_id": "tt0103247",
+      "title": "Colmillo blanco",
+      "overview": "A finales del siglo XIX, el joven Jack Conroy llega a Alaska en plena fiebre del oro, dispuesto a reclamar la herencia de su difunto padre. Allí entablará una estrecha relación con Colmillo Blanco, un cruce de lobo y perro.",
+      "poster_path": "/umnGhfxqepSVammxXWn7wW2qJ2.jpg",
+      "backdrop_path": "/1DcKVybwLpvnybtZ3Du8RTOu4MK.jpg",
+      "release_date": "1991-01-18",
+      "rating": "6.7",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Drama",
+        "Familia"
+      ],
+      "cast": [
+        "Klaus Maria Brandauer",
+        "Ethan Hawke",
+        "Seymour Cassel",
+        "Susan Hogan",
+        "James Remar"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/1RqhGeeCFJFY"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/pslkkhw8etk3"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/GKxvG3K032i1Gvl"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/rr1ff6hr3xb6"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/rlmhjo7y69ea"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/lqacmhjoy7kp"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/w1bwxuq20flu"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/qgobwxk2k0ip"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/in4iguh6kr4o"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/iswcuhwd8idh"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/dP9Qw0DOYYHkJV3"
+        }
+      ]
+    },
+    {
+      "id": 12702,
+      "imdb_id": "tt0101627",
+      "title": "Critters 3",
+      "overview": "Unos pequeños monstruos venidos del espacio vuelven a la Tierra, tras un primer viaje, para arrasar con todo lo que encuentran a su paso...",
+      "poster_path": "/frjklbq23pRgBjhekEq6drQkrZm.jpg",
+      "backdrop_path": "/yFsNmXL4S7sfd5WhG8BbTGO29t4.jpg",
+      "release_date": "1991-12-11",
+      "rating": "5.3",
+      "genres": [
+        "Comedia",
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Aimee Brooks",
+        "John Calvin",
+        "Katherine Cortez",
+        "Leonardo DiCaprio",
+        "Geoffrey Blake"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/cayFzWvIW7Oc"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/zvqoxbim49on"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/hxql5ssecsey"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/y73abcmtlxj2"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/1a783hwhez4t"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/8O9yXAlLwjFlxb"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/qzhyq66p0w20"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/mt6xvo15nz98"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/u8tz9c6mu69y"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/7S7VIXrooSsz"
+        }
+      ]
+    },
+    {
+      "id": 16270,
+      "imdb_id": "tt0101545",
+      "title": "Destinos opuestos",
+      "overview": "Un inmaduro y poco afortunado adolescente, Frank (Frank Whaley), consigue un trabajo de vigilante nocturno en una tienda, y al poco tiempo se queda encerrado nada más y nada menos que con la chica más guapa del lugar (Jennifer Connelly), una joven tan bella como rica. Ella tampoco es muy feliz con su familia y con su novio (Dermot Mulroney), pero ambos pertenecen a ambientes muy distintos, así que Frank tendrá sólo esa noche para intentar conquistarla.",
+      "poster_path": "/kb6IzkcovQTupxpQsEelMqrVO8W.jpg",
+      "backdrop_path": "/27KntBMZWB1z0sqOaNprZh9tnGM.jpg",
+      "release_date": "1991-03-29",
+      "rating": "6.9",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "cast": [
+        "Frank Whaley",
+        "Jennifer Connelly",
+        "Dermot Mulroney",
+        "Kieran Mulroney",
+        "John M. Jackson"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/3g4vmwfgcqj0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/oaw9zjcm1x0o"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/AUbvWPHLWWg4"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/nqi8tnlnlfpa"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/dovLqKV3y9tkk2l"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/8uzlkwumazuh"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/16270"
+        }
+      ]
+    },
+    {
+      "id": 9594,
+      "imdb_id": "tt0101764",
+      "title": "Doble impacto",
+      "overview": "Dos hermanos gemelos fueron separados al nacer cuando sus padres fueron asesinados por criminales. Chad fue criado en París y Alex se convirtió en un insignificante ladrón en Hong Kong. Ambos han crecido sin conocer la existencia del otro y se han convertido en expertos en combate.",
+      "poster_path": "/8xoizvqv9k0Am1vNQrTHkVFXzBE.jpg",
+      "backdrop_path": "/iI0n28l5vn3K1GdXHVoA54kRemv.jpg",
+      "release_date": "1991-07-31",
+      "rating": "6.2",
+      "genres": [
+        "Suspense",
+        "Acción",
+        "Crimen",
+        "Drama"
+      ],
+      "cast": [
+        "Jean-Claude Van Damme",
+        "Geoffrey Lewis",
+        "Alonna Shaw",
+        "Bolo Yeung Sze",
+        "Cory Everson"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/2ylze0q0yes7"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/0nrfzhbkka2o"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/adAHoD5aktCB"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/bor9n5e9zwut"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/XbyoV8VLQRHBOO"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/9e8d81y2day0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/gukqe4fdnciw"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/9594"
+        }
+      ]
+    },
+    {
+      "id": 2453,
+      "imdb_id": "tt0102005",
+      "title": "Dos duros sobre ruedas",
+      "overview": "Harley Davidson y Marlboro son dos colegas moteros que se enteran de que un viejo amigo perderá su bar porque un banco pretende construir en sus terrenos un nuevo complejo, y le piden dos millones y medio de dólares por un nuevo contrato de alquiler. Así que ambos deciden ayudarle robando el dinero del propio banco. Pero por desgracia escogen el transporte blindado equivocado y se hacen con gran cantidad de una nueva droga sintética.",
+      "poster_path": "/wimgbZSfDW78r0DXaBXCBl3Ueiy.jpg",
+      "backdrop_path": "/iwZPgwUE7dJZwAo2T7xv9WAjWVL.jpg",
+      "release_date": "1991-08-23",
+      "rating": "6.3",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "cast": [
+        "Mickey Rourke",
+        "Don Johnson",
+        "Chelsea Field",
+        "Daniel Baldwin",
+        "Giancarlo Esposito"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/H9XKg2ixdx0y"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/BYVWk4m6WJtyeJ2"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/scj1kh6k5v6v"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/gcxjxy3twsvg"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/n5pke2zwmgn9"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/39gvnbjhdf82"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/05w8waeall6d"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/943oiptebvj8"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/jsxvqodldfr4"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/2453"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/qsqlvn8d85as"
+        }
+      ]
+    },
+    {
+      "id": 39102,
+      "imdb_id": "tt0142244",
+      "title": "Dragon Ball Z: El super guerrero Son Goku",
+      "overview": "En \"Capsule Corporation\" descubren que un gigantesco asteroide va a chocar contra la Tierra, todos intentan esconderse para protegerse del asteroide, pero Goku y Krilin intentan detenerlo. En un principio parece que fallan y pierden el conocimiento. Justo antes de que el asteroide se estrellase contra la Tierra explota en miles de pedazos por el fuerte ataque de Goku y Krilin, de el asteroide sale una nave y de ella montones de soldados que informan a los humanos curiosos que se acercaron que el planeta desde ese momento pertenecía a Lord Slug (un namekiano que fue expulsado de su planeta natal por su maldad). Su fin es reunir las bolas de dragón para recuperar la juventud y convertir el planeta en un sitio adecuado para el ejército de demonios que le acompaña.",
+      "poster_path": "/iCySGAWNMk0BETBGAK3xNOKTkX5.jpg",
+      "backdrop_path": "/cyQK5IzMXDUS8o84HYbSIFQt1Vy.jpg",
+      "release_date": "1991-03-19",
+      "rating": "6.5",
+      "genres": [
+        "Acción",
+        "Animación",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Toshio Furukawa",
+        "Kenji Utsumi",
+        "Masako Nozawa",
+        "Mayumi Tanaka",
+        "Joji Yanami"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/gbf57z38ey6v"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/TNy6y8Ji7Zzi"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/xcjhq43ie8l2"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/a2t6wuwg21pq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/ghragfnvteaw"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/wkgtbjkzwevk"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/n0bx3hote9f5"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/vlr3my7n9zdu"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/NeDPM1QWtfRz"
+        }
+      ]
+    },
+    {
+      "id": 24752,
+      "imdb_id": "tt1125254",
+      "title": "Dragon Ball Z: Los mejores rivales",
+      "overview": "Cuando Goku y sus amigos están en un día de campo, aparecen unos soldados misteriosos con una armadura similar a las del Ejército de Freezer a luchar contra ellos, el único que pudo con ellos fue Goku. Pero en ese momento llega preciso momento llega un sujeto llamado Cooler, el cual resulta ser el hermano mayor de Freezer que llegó a la Tierra para vengar su muerte.",
+      "poster_path": "/1hXkEacbCRYYau4dLv4UZPWxKr5.jpg",
+      "backdrop_path": "/hph1RMsL4223xyqxfEx3OXodf5E.jpg",
+      "release_date": "1991-07-20",
+      "rating": "7.0",
+      "genres": [
+        "Acción",
+        "Animación",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Masako Nozawa",
+        "Toshio Furukawa",
+        "Mayumi Tanaka",
+        "Naoki Tatsuta",
+        "Naoko Watanabe"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/0q8wKpOCiCeZ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/qf7ydkur89ns"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/9a1k51y8dr5y"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/ed6judxm32ub"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/1ybl2mlhjxc0"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/24752"
+        }
+      ]
+    },
+    {
+      "id": 7442,
+      "imdb_id": "tt0102945",
+      "title": "Durmiendo con su enemigo",
+      "overview": "Laura y Martin estuvieron casados durante cuatro años y parecían una pareja perfecta. Sin embargo, la realidad era muy distinta: Martin resultó ser un marido obsesivo y brutal que la maltrataba continuamente. La situación llegó a ser tan insostenible que Laura decidió simular su muerte para librarse de él y empezar una nueva vida con una nueva identidad. Sin embargo, cuando él se da cuenta del engaño, decide perseguirla para vengarse.",
+      "poster_path": "/6fIYQGOAMWEOhzfgHuPjRtJfdtI.jpg",
+      "backdrop_path": "/apUbdi4nGrD5VGIaxErtpsn7ST8.jpg",
+      "release_date": "1991-01-13",
+      "rating": "6.5",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Suspense"
+      ],
+      "cast": [
+        "Julia Roberts",
+        "Patrick Bergin",
+        "Kevin Anderson",
+        "Elizabeth Lawrence",
+        "Kyle Secor"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/ay1rj1mdv9lm"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/co62vaa8n7x9"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/7442"
+        }
+      ]
+    },
+    {
+      "id": 1649,
+      "imdb_id": "tt0101452",
+      "title": "El alucinante viaje de Bill y Ted",
+      "overview": "Una cabina telefónica es el instrumento que utilizan Billy y Ted para viajar a sus anchas por el espacio y el tiempo. Viajarán al Infierno, al Cielo, se harán amigos de la Muerte (que acabará convirtiéndose en ídolo del rock), y conocerán a los marcianos, al conejo de Pascua, y a Albert Einstein.",
+      "poster_path": "/ovspKcx8UmWaurGYo0SaeUH999Q.jpg",
+      "backdrop_path": "/4PMSgLOzPFgyzARQBhhX4vS9oOW.jpg",
+      "release_date": "1991-07-19",
+      "rating": "6.3",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Keanu Reeves",
+        "Alex Winter",
+        "William Sadler",
+        "Joss Ackland",
+        "Pam Grier"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/pic3i257ntmb"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/mb1coqcp23pn"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/m94zv2fs5r1f"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/e9kbbfpjiizx"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/ddfurNZzZuLq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/n522vw4tfbjx"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/Gw164qekGgT1xZG"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/sikejM558ude"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/1649"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/agd3djqnu6sj"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/n1m3gogrj8dt"
+        }
+      ]
+    },
+    {
+      "id": 1598,
+      "imdb_id": "tt0101540",
+      "title": "El cabo del miedo",
+      "overview": "Los Bowden son una pareja feliz: Sam es un abogado de éxito y Leig diseñadora gráfica. Tienen una hija de 15 años, Danielle, y acaban de trasladarse a una preciosa casa en una tranquila ciudad. Max Cady acaba de salir de la cárcel, trás pasar en ella 14 años, acusado de violar y apalear a una adolescente. En prisión ha estudiado leyes, y ha llegado a la conclusión de que el responsable directo de su condena fue su abogado, Sam Bowden. Ahora va a dedicar cada minuto de su existencia a hacerle pagar su error. Candy ejecutará su terrible venganza, aterrorizando a la familia Bowden y convirtiendo su vida en una pesadilla.",
+      "poster_path": "/rDZLjlSxHRTvoTu1rvRiPTWsdND.jpg",
+      "backdrop_path": "/ntgpger7OwFNlEldxuvvFHDKzjW.jpg",
+      "release_date": "1991-11-13",
+      "rating": "7.3",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Suspense"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Nick Nolte",
+        "Jessica Lange",
+        "Juliette Lewis",
+        "Joe Don Baker"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/68gwu5t0i90r"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/qawPJPrQ7AIzeQz"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/tdkfr16txuv5"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Cno1G4i6Csy2"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/rm0jkxus3pbf"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/frtk1acqx9zy"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/6nxnjkb4gwbx"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/1598"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/toun9k2owi0q"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/3hcqeui7qdi8"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/r1xrby2cwjtj"
+        }
+      ]
+    },
+    {
+      "id": 9292,
+      "imdb_id": "tt0102070",
+      "title": "El gran halcón",
+      "overview": "Eddie Hawkins, más conocido como \"el gran halcón\", es un ladrón de guante blanco que, después de cumplir una condena de diez años de prisión, ha decidido vivir como una persona honrada. Pero el loco Mayflower amenaza con matar a su amigo Tommy, si no roba unas obras de Leonardo Da Vinci.",
+      "poster_path": "/9jCxvpus1EadlYQUP4XN6ceAtYN.jpg",
+      "backdrop_path": "/h0zbeNCOd2eKpFGmJGPLOrp5wP4.jpg",
+      "release_date": "1991-05-23",
+      "rating": "5.7",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Comedia"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Danny Aiello",
+        "Andie MacDowell",
+        "James Coburn",
+        "Richard E. Grant"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/b2d9p4anptpu"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/hxpd1vjhv0x1"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/iwco6sms2law"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/svegsoykg1et"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/fJ0DqciOjl05"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/nnrcsalppq7o"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/QwD8MJeeM2h0LvA"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/cmijabutydez"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/uset4gk5o7fh"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/9292"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/frula2ysvlnx"
+        }
+      ]
+    },
+    {
+      "id": 21219,
+      "imdb_id": "tt0102460",
+      "title": "El imperio del mal",
+      "overview": "\"Mobsters\" narra las hazañas de cuatro hombres de los años 20 que se convertirían en cuatro importantes miembros del crimen organizado en Estados Unidos: el encantador “Lucky” Luciano (Christian Slater), el habilidoso negociador Meyer Lansky (Patrick Depsey), el testarudo y apasionado de las mujeres “Bugsy” Siegel (Richard Grieco) y el diplomático Frank Costello (Costar Mandylor). Desde sus más modestos comienzos y sus diversos orígenes étnicos, todos desarrollan un profundo lazo emocional que les une y les permite situarse en la cima de los bajos fondos...",
+      "poster_path": "/l7GfcGzH4UQzzP0Q3EfBiDbm5yu.jpg",
+      "backdrop_path": "/idXPYojlv4SoXVbIIvaR1PM6ZGU.jpg",
+      "release_date": "1991-07-26",
+      "rating": "6.3",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "cast": [
+        "Christian Slater",
+        "Costas Mandylor",
+        "Richard Grieco",
+        "Patrick Dempsey",
+        "Lara Flynn Boyle"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/89jl2jesej5i"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/d0vmtd1nqhbl"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/D4d0OqQYeluLVZ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/mk8u0p0bqkyn"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/wigqg0uin4t0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/fj8wKL9wMRD7"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/p2inw9n1x91r"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/3jxmumjudrex"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/99uvnmz4xgms"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/lbCSElY3vshL"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/21219"
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "imdb_id": "tt0102926",
+      "title": "El silencio de los corderos",
+      "overview": "El FBI busca a 'Buffalo Bill', un asesino en serie que mata a sus víctimas, todas adolescentes, después de prepararlas minuciosamente y arrancarles la piel. Para poder atraparlo recurren a Clarice Starling, una brillante licenciada universitaria, experta en conductas psicópatas, que aspira a formar parte del FBI. Siguiendo las instrucciones de su jefe, Jack Crawford, Clarice visita la cárcel de alta seguridad donde el gobierno mantiene encerrado a Hannibal Lecter, antiguo psicoanalista y asesino, dotado de una inteligencia superior a la normal. Su misión será intentar sacarle información sobre los patrones de conducta de 'Buffalo Bill'.",
+      "poster_path": "/8FdQQ3cUCs9goEOr1qUFaHackoJ.jpg",
+      "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+      "release_date": "1991-02-14",
+      "rating": "8.3",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "cast": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Scott Glenn",
+        "Ted Levine",
+        "Anthony Heald"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/TrK4ILr2H39f"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/brphp45mwcii"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/43tuxl07gnq8"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/gv56og26zx3z"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/l2jkf6qwtw4t"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/qg3Wjop2XKCzbjR"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/274"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/uJG564cSDWXo"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/ks1gv3bon38o"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/0giu76vkvpqz"
+        }
+      ]
+    },
+    {
+      "id": 13122,
+      "imdb_id": "tt0105121",
+      "title": "El sótano del miedo",
+      "overview": "Atrapado en el interior de una casa fortificada que pertenece a una misteriosa pareja, un pobre muchacho se ve inmerso en una pesadilla. Tras percatarse de inmediato de la verdadera naturaleza de los macabros habitantes de la casa, el chico se enfrenta a sádicos dispositivos de seguridad, se hace amigo de una chica esquiva y maltratada, y tratará de descubrir el secreto de las criaturas ocultas en las profundidades de la casa.",
+      "poster_path": "/mCcj8yyZBDKiVO5JpterCktI3x6.jpg",
+      "backdrop_path": "/lyGRyMxIYwvPObfOYWYDivMQUqh.jpg",
+      "release_date": "1991-11-01",
+      "rating": "6.5",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Misterio",
+        "Suspense"
+      ],
+      "cast": [
+        "Brandon Quintin Adams",
+        "Everett McGill",
+        "Wendy Robie",
+        "A. J. Langer",
+        "Ving Rhames"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/02tp89rhr6pg"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/gupbm4yp12et"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/ymchh1yvwhqb"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/j7q3vt6l3vqm"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/luugsadap11x"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/vPy4rzb3W0T46g4"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/13122"
+        }
+      ]
+    },
+    {
+      "id": 9319,
+      "imdb_id": "tt0102266",
+      "title": "El último Boy Scout",
+      "overview": "Willis es un detective privado en horas bajas. Había sido uno de los más importantes agentes del servicio secreto norteamericano, pero su carrera terminó al enfrentarse con un político corrupto. Wayans, una gran estrella del fútbol, cae en desgracia al verse involucrado en un supuesto escándalo. Ambos unirán sus fuerzas para resolver sus problemas.",
+      "poster_path": "/cQ5k3KFbe5rgpLOvoIiPzJZdZiQ.jpg",
+      "backdrop_path": "/8AZ8Hjcr4Jr1eR93OW70g9jjUr9.jpg",
+      "release_date": "1991-12-13",
+      "rating": "6.8",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Damon Wayans",
+        "Chelsea Field",
+        "Noble Willingham",
+        "Taylor Negron"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/684jn7cegfk1"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/92oxWJ8DYeIag9d"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/gZ8jktywnDyA"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/n9xj69x84r8e"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/m6kxg2kmujrk"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/jtzlyzu6feal"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/9319"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/uSppUBOimVCE"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/kjy7su7d2nlu"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/ed360k7wwmdf"
+        }
+      ]
+    },
+    {
+      "id": 28597,
+      "imdb_id": "tt0102719",
+      "title": "Este chico es un demonio 2",
+      "overview": "Ben y su hijo adoptivo, Junior, se han trasladado a una nueva ciudad. El lugar tiene una muy especial característica: contiene cincuenta mujeres por cada habitante masculino.",
+      "poster_path": "/sdu25FhRDZJA8xGGvIdQlcHa82m.jpg",
+      "backdrop_path": "/eMQ8pdAgOQ3LHpyylkm5F51OChW.jpg",
+      "release_date": "1991-07-03",
+      "rating": "5.9",
+      "genres": [
+        "Comedia",
+        "Familia"
+      ],
+      "cast": [
+        "John Ritter",
+        "Michael J. Oliver",
+        "Jack Warden",
+        "Laraine Newman",
+        "Amy Yasbeck"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/z317smxdqm7y"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/1YDQvC10SXJJ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/5np2ovgdpkr9"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/mev5ty8vlk61"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/ylx9deh8ksdq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/71x75yqwfiep"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/28597"
+        }
+      ]
+    },
+    {
+      "id": 10380,
+      "imdb_id": "tt0101329",
+      "title": "Fievel va al Oeste",
+      "overview": "La familia de Fievel decide volver a mudarse. Los Estados no resultan todo lo buenos que ellos esperaban, así que deciden ir a un destino algo más cálido: al lejano Oeste, en donde los gatos y los ratones son amigos. Por supuesto, Fievel no termina de creerse todo este cuento, y más tras escuchar la conversación que un grupo de gatos mantiene en el tren rumbo al oeste: los gatos no son en absoluto amistosos, sólo quieren confiar a los ratones para que, cuando menos se lo esperen puedan llenar sus estómagos. Pero allí está Fievel, más crecido, más maduro y mucho, mucho más travieso que, junto con su amigo Tigre y nuevos piensa defender su pueblo como el mejor de los sherifs.",
+      "poster_path": "/pLiYxPJteMeNpsuxnfnYfXrp3NL.jpg",
+      "backdrop_path": "/8UpJ8svNnwVtpu8n62vGke8MOJf.jpg",
+      "release_date": "1991-11-21",
+      "rating": "6.3",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Western",
+        "Aventura",
+        "Comedia"
+      ],
+      "cast": [
+        "Phillip Glasser",
+        "James Stewart",
+        "Erica Yohn",
+        "Cathy Cavadini",
+        "Nehemiah Persoff"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/mMBYfCO22KN9"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/uf131vqa0hoy"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/29K7g11wrGtZrX7"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/oejqk8bfp40o"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/10380"
+        }
+      ]
+    },
+    {
+      "id": 879,
+      "imdb_id": "tt0102057",
+      "title": "Hook (El capitán Garfio)",
+      "overview": "Peter Pan es un prestigioso abogado y tiene una encantadora familia, pero ha perdido el contacto con algo maravilloso: su infancia. Sin embargo, cuando sus hijos son secuestrados por su antiguo enemigo, el Capitán Garfio, y llevados al País de Nunca Jamás, también él tendrá que viajar a ese reino encantado, donde, con la ayuda de Campanilla, podrá recuperar no sólo a sus hijos, sino también al niño que un día fue.",
+      "poster_path": "/cB9JjO3IU2s3ZBj1fK3baTCigVW.jpg",
+      "backdrop_path": "/x5VGdEBBGuhA0YRlk6dFFxGcamG.jpg",
+      "release_date": "1991-04-10",
+      "rating": "6.8",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Comedia",
+        "Familia"
+      ],
+      "cast": [
+        "Dustin Hoffman",
+        "Robin Williams",
+        "Julia Roberts",
+        "Bob Hoskins",
+        "Maggie Smith"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/scitxditfeqt"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/qe0dmemb3mg1"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/hTzsHiO43tat"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/dmgx32nb3en9"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/jnn2yjd15b8k"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/pvy5gbsbgb0l"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/SyAS1YIgxsMP"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/4bjvf1b97gqd"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/9q9dpocjr2gt"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/6cbv8jwn5fh3"
+        }
+      ]
+    },
+    {
+      "id": 9595,
+      "imdb_id": "tt0102059",
+      "title": "Hot Shots!",
+      "overview": "\"Topper\" Harley es un piloto de élite, un \"Top Gun\" de las fuerzas aéreas norteamericanas, que tiene que convivir con el legado de su padre y que mantiene una dura rivalidad con otro piloto, Kent Gregory. Un día se le encomienda una dura y peligrosa misión: destruir una planta nuclear de Sadam Hussein.",
+      "poster_path": "/iFhJA8CAl5rxH9zrfgj01SB5fNg.jpg",
+      "backdrop_path": "/kTKWxTiLraTxgoszCzJ8gyuPjyw.jpg",
+      "release_date": "1991-07-31",
+      "rating": "6.6",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Bélica"
+      ],
+      "cast": [
+        "Charlie Sheen",
+        "Cary Elwes",
+        "Valeria Golino",
+        "Lloyd Bridges",
+        "Kevin Dunn"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/zvtx9rb3or22"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/0tcp2uakqq6l"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/1wLlja7ZvGBR"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/aaylftyh028p"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/qij0jgb6mjj6"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/zxaLe9GwPaUY6Ly"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/tgqhnt0gwbw6"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/9595"
+        }
+      ]
+    },
+    {
+      "id": 820,
+      "imdb_id": "tt0102138",
+      "title": "JFK: Caso abierto",
+      "overview": "El fiscal de Nueva Orleans, Jim Garrison, reabrió el caso del asesinato del presidente de los Estados Unidos John F. Kennedy y presentó cargos contra algunas personas. Después de entrevistar a numerosos testigos de Dallas y a personas relacionadas con los hechos, mantuvo la tesis de que el magnicidio fue fruto de una conspiración en la que podrían haber intervenido el FBI, la CIA y el propio vicepresidente Lindon B. Johnson.",
+      "poster_path": "/lVkxI3OcuiprfnQ4M1vcBITbsXf.jpg",
+      "backdrop_path": "/77gjiDyD94aJfqZq6AJAcMLxZhd.jpg",
+      "release_date": "1991-12-20",
+      "rating": "7.6",
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Historia"
+      ],
+      "cast": [
+        "Kevin Costner",
+        "Tommy Lee Jones",
+        "Gary Oldman",
+        "Kevin Bacon",
+        "Michael Rooker"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Z7Q8d3FG7uRW"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/kkn1j93jdaad"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/uyarkypsaamk"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/kuso81k86i5y"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/lhjkartln9o4"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/aojdwPRGbPfx7am"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/i6ir2bdybhlz"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/hk0kCfpx0yFp"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/820"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/pbbAaVJ1LbIrMGd"
+        }
+      ]
+    },
+    {
+      "id": 24993,
+      "imdb_id": "tt0102202",
+      "title": "Kickboxer 2",
+      "overview": "Dos jóvenes boxeadores luchan por conseguir fama y fortuna dentro del difícil mundo del ring. El diabólico Tongo-Po tiende una emboscada al campeón Kurt Sloan y acaba con su vida. El hermano de éste, David, será la única esperanza para terminar con Tongo-Po, y así vengar a su hermano.",
+      "poster_path": "/t5ieHTlIiJgXg05lJgP3McT1T9v.jpg",
+      "backdrop_path": "/uahVJ0YtkbdsIIkc0D2jR9a3gK2.jpg",
+      "release_date": "1991-01-30",
+      "rating": "5.4",
+      "genres": [
+        "Acción",
+        "Aventura"
+      ],
+      "cast": [
+        "Sasha Mitchell",
+        "陳國新",
+        "Cary-Hiroyuki Tagawa",
+        "Michel Qissi",
+        "Matthias Hues"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/k09kiq9zztoq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/2qhjw283zo2z"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/24993"
+        }
+      ]
+    },
+    {
+      "id": 10975,
+      "imdb_id": "tt0099558",
+      "title": "La armadura de Dios 2: Operación Cóndor",
+      "overview": "Antes de que terminase la Segunda Guerra Mundial, los nazis escondieron en el desierto del Sáhara el oro que habían robado en diversos países europeos. El general alemán Von Katterling asignó la misión a su ayudante personal y a dieciocho soldados de los que nunca más se supo. Ahora, las Naciones Unidas quieren recuperar el oro para invertirlo en proyectos humanitarios y para lograrlo deciden asignarle la misión a un oriental neutral, Jackie el Cóndor. La misión del Cóndor es clara y precisa: ir al desierto, localizar el oro y recuperarlo.",
+      "poster_path": "/4cbwgrlj22dXH47lQUzvSUsTtAZ.jpg",
+      "backdrop_path": "/leHpAsKAJGnNuv5EPAUZUbqrRxq.jpg",
+      "release_date": "1991-02-07",
+      "rating": "7.4",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Crimen",
+        "Suspense"
+      ],
+      "cast": [
+        "Jackie Chan",
+        "鄭裕玲",
+        "Eva Cobo",
+        "Shôko Ikeda",
+        "Vincent Lyn"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/GD5Kedx6kJOc"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/9snba60nf9mf"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/f4b49w1xjx7t"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/9densu1y30os"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/10975"
+        }
+      ]
+    },
+    {
+      "id": 10020,
+      "imdb_id": "tt0101414",
+      "title": "La bella y la bestia",
+      "overview": "Una hermosa joven llamada Bella acepta alojarse en un castillo con una bestia a cambio de la libertad de su padre. La bestia es, en realidad, un príncipe encantado. Para romper el hechizo, deberá ganarse el amor de una preciosa dama antes de que caiga el último pétalo de una rosa encantada.",
+      "poster_path": "/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg",
+      "backdrop_path": "/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+      "release_date": "1991-10-22",
+      "rating": "7.7",
+      "genres": [
+        "Romance",
+        "Familia",
+        "Animación",
+        "Fantasía"
+      ],
+      "cast": [
+        "Paige O'Hara",
+        "Robby Benson",
+        "Richard White",
+        "Jerry Orbach",
+        "David Ogden Stiers"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/LY8m9OYdqOtRqao"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/sln5vhon3ya8"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/sr44wgwoyhrw"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/h758pz16ek13"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/xkkzldk4seb9"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/nIJ4CMDMTJ4R"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/vbg39m9ec7tk"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/43UIPdaVS3ND"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/10020"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/9fogigqritap"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/yj73q76d9hyi"
+        }
+      ]
+    },
+    {
+      "id": 2907,
+      "imdb_id": "tt0101272",
+      "title": "La familia Addams",
+      "overview": "El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando el codicioso dúo que forman madre e hijo, con la ayuda de un abogado sin ningún escrúpulos, conspiran para hacerse con la fortuna familiar...",
+      "poster_path": "/ro7bdsSGp1jtvMxSWEfLLCK33PO.jpg",
+      "backdrop_path": "/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
+      "release_date": "1991-11-22",
+      "rating": "7.1",
+      "genres": [
+        "Comedia",
+        "Fantasía"
+      ],
+      "cast": [
+        "Raúl Juliá",
+        "Anjelica Huston",
+        "Christopher Lloyd",
+        "Christina Ricci",
+        "Carel Struycken"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/a9wwwel908ms"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/oz3r2bwrk5ku"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/KyDywurFZVCJ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/2gcjqbzklimd"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/oudseox5vjx0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/ltjq6afalv8o"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/LpgWwb6r0BSbBA"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/cdqb0xn1aygg"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/R42bWZX3qaFdRM9"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/repyu1sny9lw"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/vgbxvpopjd6p"
+        }
+      ]
+    },
+    {
+      "id": 17792,
+      "imdb_id": "tt0102585",
+      "title": "La profecía IV: El renacer",
+      "overview": "Una niña es adoptada por unos padres que no pueden tener hijos. La pequeña se comportará de manera inusual, de forma que su madre adoptiva contratará a un investigador para que descubra los verdaderos progenitores de la niña.",
+      "poster_path": "/gTKFrH64uClBiHld6We0HLuy7tg.jpg",
+      "backdrop_path": "/7IJHdLr4Bi0rCBgXblVzHGfeyAg.jpg",
+      "release_date": "1991-07-19",
+      "rating": "5.0",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense",
+        "Película de TV"
+      ],
+      "cast": [
+        "Faye Grant",
+        "Michael Woods",
+        "Michael Lerner",
+        "Madison Mason",
+        "Ann Hearn"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/w6nk9o8ht5m0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/lhh19mg9o4rc"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/wl22ivzh4ztj"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/k0ot70ry8l8s"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/4od6XiGFThJl"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/6hz4y9nhrhp3"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/DPoR9yPbOWudwD"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/3nwhpr07gmxm"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Z8OAjvxIvNTF"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/6yeehl3xfpsj"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/eo2k85pddekf"
+        }
+      ]
+    },
+    {
+      "id": 1497,
+      "imdb_id": "tt0103060",
+      "title": "Las tortugas ninja II: El secreto de los mocos verdes",
+      "overview": "El malvado Shredder tiene un único y perverso plan: acabar con los cuatro superhéroes Tortugas Ninja Mutantes, Raphael, Leonardo, Michelangelo y Donatello. Para ello, secuestra al profesor Jordan Perry, creador del \"moco verde\" que hace posible la mutación de las Tortugas. Poco después, Shredder aplica la preciada sustancia a dos criaturas que acaba de reclutar, convirtiéndolos en terribles e imponentes guerreros ninja que lucharán e intentarán terminar con los superhéroes. Sin embargo, éstos logran hacen frente al peligroso criminal, con la ayuda de su maestro Splinter, la elegante periodista April y el repartidor de pizzas Keno.",
+      "poster_path": "/pHX1HeO3oFcy50QoOaBOl5Rgtc0.jpg",
+      "backdrop_path": "/8VGaEXbTOGeWGW7IvzOf1j2rjet.jpg",
+      "release_date": "1991-03-22",
+      "rating": "6.2",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Acción",
+        "Comedia",
+        "Familia"
+      ],
+      "cast": [
+        "Brian Tochi",
+        "Laurie Faso",
+        "Robbie Rist",
+        "Adam Carl",
+        "Paige Turco"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/mugh05zfmf33"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/hBvTMVHUD96r"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/KP1bQ6BAYkFoVb"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/e7gw83q9a2eh"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/pbxlog32syvr"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/szvg2wonvgdn"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/1497"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/8i9v7x6ee2ve"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/b30di9h14sru"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/IL0RmcU2fR4b"
+        }
+      ]
+    },
+    {
+      "id": 1089,
+      "imdb_id": "tt0102685",
+      "title": "Le llaman Bodhi",
+      "overview": "Johnny Utah, un joven agente del FBI, se infiltra en los ambientes del surf para desenmascarar a una banda de atracadores que, como sello de identidad, usan caretas de presidentes de los Estados Unidos durante sus golpes. Pero Johnny pronto se encapricha de la guapa Tyler y, además, conoce a Bodhi, el jefe de la banda, un hombre que vive al límite y que acaba ejerciendo una gran influencia sobre el joven policía.",
+      "poster_path": "/rxgvvm3j2jA4Flh2k9Hrvq2T7Vs.jpg",
+      "backdrop_path": "/yGOHbICOQwlJ20UjK8F2ChGJjvl.jpg",
+      "release_date": "1991-07-12",
+      "rating": "7.2",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Crimen"
+      ],
+      "cast": [
+        "Keanu Reeves",
+        "Patrick Swayze",
+        "Lori Petty",
+        "Gary Busey",
+        "John C. McGinley"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/qus2luq5t2st"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/hyf8xaahzucc"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/GPVGrKBPdyUVlz"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/qCfUJKmAYuVG"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/mefszzr6ktyw"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/ayhqlz4h525c"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/a1sidow62z7a"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/siqa725xa1a5"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/v3bf0u9u6v37"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/3w8i73sujjxx"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/b1VQRfuo1c44"
+        }
+      ]
+    },
+    {
+      "id": 13154,
+      "imdb_id": "tt0102915",
+      "title": "Little Tokyo: Ataque Frontal",
+      "overview": "La Yakuza, una poderosa organización ancestral japonesa, trata de implantarse en Los Angeles extorsionando a los comerciantes de Little Tokyo, así como hacerse con el mercado norteamericano introduciendo una droga sofisticada envasada en botellas de cerveza. Dos jóvenes policías, en misión secreta, tendrán que desarticular el brazo armado de la Yakuza, la \"Garra de hierro\", cuyo jefe es conocido de uno de ellos.",
+      "poster_path": "/qGWgNZSsxSc1GWL9tUBaThV2MWr.jpg",
+      "backdrop_path": "/usnJJH0gZhNOUdHeHJYdzojGcVw.jpg",
+      "release_date": "1991-08-23",
+      "rating": "6.4",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Crimen"
+      ],
+      "cast": [
+        "Dolph Lundgren",
+        "Brandon Lee",
+        "Cary-Hiroyuki Tagawa",
+        "Tia Carrere",
+        "Toshishiro Obata"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/aunyzuhj7yx6"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/Mqpp1PDDMPcmpz2"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/WwhXjZoWl1AL"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/lsxeixpw9ad8"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/pb0pwlq8khdo"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/pkn4vkizfb00"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/onqyj76azih0"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/rurldenr6n1d"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/cd2w3s9vuwai"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/aUsqkNxPI5QA"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/hy2h2p20sgzx"
+        }
+      ]
+    },
+    {
+      "id": 2924,
+      "imdb_id": "tt0101393",
+      "title": "Llamaradas",
+      "overview": "Brian era un niño cuando vio morir a su padre en acto de servicio durante un incendio. Veinte años después, tiene que someterse a un duro periodo de pruebas en la compañía que manda su exigente hermano Stephen, para ser bombero en Chicago. Superado el escollo, su trabajo consistirá en investigar incendios para descubrir si han sido provocados. Mientras un pirómano se dedica a provocar incendios, los dos hermanos intentan superar las rencillas del pasado.",
+      "poster_path": "/sXidEP5x5RhUlNUlnHNrfFyActO.jpg",
+      "backdrop_path": "/sRZjzfBbBwRVI8oO5OtkaCYPFad.jpg",
+      "release_date": "1991-05-24",
+      "rating": "6.7",
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Acción",
+        "Crimen"
+      ],
+      "cast": [
+        "Kurt Russell",
+        "William Baldwin",
+        "Robert De Niro",
+        "Donald Sutherland",
+        "Jennifer Jason Leigh"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/q9hb6dg24u5z"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/nl3bvo24wzfl"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/726v89rv1m5b"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/JAgjRaBbzqFZRJ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/ric6l65terli"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/w6egihw1qtw6"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/2924"
+        }
+      ]
+    },
+    {
+      "id": 650,
+      "imdb_id": "tt0101507",
+      "title": "Los chicos del barrio",
+      "overview": "Sorprendente debut del jovencísimo John Singleton -nominado al Oscar al mejor director con sólo 21 años- en un drama que cuenta la historia de tres amigos de la infancia que viven en un peligroso barrio de Los Ángeles. Los tres deberán enfrentarse a difíciles dilemas para abrirse camino en la vida.",
+      "poster_path": "/wcHEyW05V0PH4b1bLo47nTIp1oX.jpg",
+      "backdrop_path": "/w9Buzxn7RjbttP2xm9leMfMdyCP.jpg",
+      "release_date": "1991-07-12",
+      "rating": "7.6",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": [
+        "Cuba Gooding Jr.",
+        "Laurence Fishburne",
+        "Ice Cube",
+        "Morris Chestnut",
+        "Angela Bassett"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/kp7RKVloAJFOMv7"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/yk5ozwzoaotz"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/5bv0ocgqkhqk"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/CbOrjqNAsB7U"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/650"
+        }
+      ]
+    },
+    {
+      "id": 8010,
+      "imdb_id": "tt0102034",
+      "title": "Los inmortales II: El desafío",
+      "overview": "Katana es el dictador del planeta Zeist del que procede Connor Mcleod. Este último tiene setenta y cinco años, y espera en la tierra que le llegue su hora calmadamente tras una larga e intensa vida. Pero los problemas vuelven a surgir en su vida cuando el autoritario Katana quiere acabar con él. Para poder hacerle frente, recurre a un extraño conjuro que le convierte en un joven de treinta años y que consigue hacer volver a Ramírez, su amigo.",
+      "poster_path": "/vfjmW94xffKppzvzKSMk8j9Ce5P.jpg",
+      "backdrop_path": "/5GszfyuRYWBptoxI14fKgfHiTZK.jpg",
+      "release_date": "1991-01-13",
+      "rating": "4.7",
+      "genres": [
+        "Fantasía",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Christopher Lambert",
+        "Sean Connery",
+        "Virginia Madsen",
+        "Michael Ironside",
+        "John C. McGinley"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/9at38fkr4o9j"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/RAxbd0W61VCjWw"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/x823g1ygphzr"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/5tpqvxszqymh"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/xawvxaixh5i6"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/jfof0wszbf02"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/uRW3T9fHCtAH"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/krnqbc1qxtpz"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/yJwiHnM8GMUV"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/wzecq1gljlsz"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/z3mn632rthij"
+        }
+      ]
+    },
+    {
+      "id": 468,
+      "imdb_id": "tt0102494",
+      "title": "Mi Idaho privado",
+      "overview": "Mike Waters (River Phoenix) y Scott Favor (Keanu Reeves) son dos jóvenes chaperos que se ganan la vida prostituyéndose en las calles de Portland. Mike tiene una extraña enfermedad llamada narcolepsia, que le provoca un sueño repentino y profundo en cualquier parte.",
+      "poster_path": "/kQWxF2oDRFpRT0QxPuNwFqCdYdI.jpg",
+      "backdrop_path": "/stSaFz5CtMXwIj3r4MDjqxqWRot.jpg",
+      "release_date": "1991-02-01",
+      "rating": "7.1",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        "River Phoenix",
+        "Keanu Reeves",
+        "James Russo",
+        "William Richert",
+        "Rodney Harvey"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/ljhdjiqf2o9z"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/r73w4g6qbzt3"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/sgquztfu6i0g"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/7gd617juvzeq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/7qaq80tgu9r6"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/UHB2eiIourPD"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Idb8J9Yqh7xI"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/u0f0b6hrji42"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/frvhgk98gfqj"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/egmkhkef4d4h"
+        }
+      ]
+    },
+    {
+      "id": 4032,
+      "imdb_id": "tt0102492",
+      "title": "Mi chica",
+      "overview": "Vada Sultenfuss es una niña obsesionada con la muerte. Su madre ha muerto y su padre dirige una funeraria. Además está enamorada de su profesor de inglés y se apunta a unos cursos de poesía en verano sólo para impresionarle. Thomas J., su mejor amigo, es alérgico a todo. Cuando el padre de Vada contrata a Shelly -una experta maquilladora- para su negocio, comienza a enamorarse de ella. Pero Vada se enfada e intentará hacer todo lo posible por torpedear la relación.",
+      "poster_path": "/6iYlGQ82uM2l5Jjor0axXB30J3J.jpg",
+      "backdrop_path": "/vSd89kiENYeFa6mPHzsM5BgliPm.jpg",
+      "release_date": "1991-11-27",
+      "rating": "7.4",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "cast": [
+        "Anna Chlumsky",
+        "Macaulay Culkin",
+        "Dan Aykroyd",
+        "Jamie Lee Curtis",
+        "Richard Masur"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/VsQluukgQEBN"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/bauq8zdu0u0h"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/hy91ha6hwyb9"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/wqil7wrv1y7n"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/bxq6uvgbqr3s"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/gurd7fmoe0b6"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/KgByaB9Y77i0Oj6"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/b8f0vji27x11"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/4032"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/9F9RCbYyu5Ub"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/lutwqcbdsid3"
+        }
+      ]
+    },
+    {
+      "id": 11187,
+      "imdb_id": "tt0103956",
+      "title": "Muñeco diabólico 3",
+      "overview": "Ocho años después del día en que creyó haber destruido al muñeco asesino, Andy Barclay cumple los dieciséis y entra en una academia militar. Mientras, el codicioso presidente de la empresa de juguetes Play Pals decide resucitar la popular línea de muñecos Good Guys. Cuando la cadena de montaje recrea el primer muñeco a partir de una masa de plástico derretido, el espíritu de Chucky regresa con renovadas intenciones de alcanzar su objetivo y vengarse de Andy.",
+      "poster_path": "/l1Jm1dlKI012OEKUgn8fubassSg.jpg",
+      "backdrop_path": "/cSb9PLxEdlLKcMjGdNGnL6sLXGJ.jpg",
+      "release_date": "1991-08-30",
+      "rating": "5.9",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "cast": [
+        "Justin Whalin",
+        "Brad Dourif",
+        "Perrey Reeves",
+        "Jeremy Sylvers",
+        "Travis Fine"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/vk4glesdvnnc"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/dfcc61l7gbp5"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/Zz2BJypaw2foKA"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/cy3slf1fjt13"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/q9sgb7nkibks"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/ysee3a230jju"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/PYGiv6maESe9"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/rk6fsrgvvck5"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/499ydn6vlo58"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/bjw19h4fxt3s"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/jweh5f8j9x98"
+        }
+      ]
+    },
+    {
+      "id": 10750,
+      "imdb_id": "tt0103112",
+      "title": "Operación: Soldados de juguete",
+      "overview": "Cuando el narcotraficante Enrique Cali es extraditado, su hijo Luis idea un plan para liberarle. Este, con la ayuda de los componentes de un comando, secuestra a unos adinerados estudiantes en su propia escuela y obliga a las autoridades a soltar a Enrique Cali.",
+      "poster_path": "/kRc3v0eKJbIpBBGUOwEZ4A56eFz.jpg",
+      "backdrop_path": "/w5U8GsNxnbn9tCXpfaTFjxR3az4.jpg",
+      "release_date": "1991-04-24",
+      "rating": "6.5",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Suspense"
+      ],
+      "cast": [
+        "Sean Astin",
+        "Wil Wheaton",
+        "Keith Coogan",
+        "Andrew Divoff",
+        "R. Lee Ermey"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/ij90i6jxuuya"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/1Jq8WmBOJ8hekqQ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/q7kudad4hwxm"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/yeP7nbNJYHiu"
+        },
+        {
+          "language": "Español",
+          "server_name": "Wolfstream",
+          "embed_url": "https://wolfstream.tv/e/rggq8clduir2"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/3r1f0n7xpaqx"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/0qvpqmvt6gaw"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/ky22v5cam605"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/10750"
+        }
+      ]
+    },
+    {
+      "id": 11890,
+      "imdb_id": "tt0102603",
+      "title": "Oscar ­ ¡Quita Las Manos!",
+      "overview": "Un famoso contrabandista promete a su padre, cuando éste está a punto de fallecer, convertirse en un hombre decente y devolver la honra al nombre de la familia. Pero naturalmente, el paso a la honradez no le resultará fácil y tendrá que enfrentarse a parientes, amigos y enemigos.",
+      "poster_path": "/fVrXH7lHQIhUMZS880c7T1tI70h.jpg",
+      "backdrop_path": "/6fAIKXVzkIil9NEyYuwvSivWvV9.jpg",
+      "release_date": "1991-04-26",
+      "rating": "6.3",
+      "genres": [
+        "Comedia"
+      ],
+      "cast": [
+        "Sylvester Stallone",
+        "Marisa Tomei",
+        "Vincent Spano",
+        "Ornella Muti",
+        "Tim Curry"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/x48cndh0dnq9"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/ny13fa30owd7"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/11890"
+        }
+      ]
+    },
+    {
+      "id": 11284,
+      "imdb_id": "tt0101917",
+      "title": "Pesadilla final: La muerte de Freddy",
+      "overview": "Después de diez años, Freddy Krueger vuelve a sembrar el pánico entre los adolescentes de Springswood. Utiliza para su venganza a un joven amnésico que le servirá para revitalizar sus poderes y localizar a su propia hija.",
+      "poster_path": "/dq8Q4SwqIvu2lBPxzMxRu5E6IA1.jpg",
+      "backdrop_path": "/6bK8SrTkcdpE6Ild4NdJtZFL1Rg.jpg",
+      "release_date": "1991-09-05",
+      "rating": "5.3",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "cast": [
+        "Robert Englund",
+        "Lisa Zane",
+        "Shon Greenblatt",
+        "Lezlie Deane",
+        "Yaphet Kotto"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/V94l7AWkFW7W"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/y931gs3fujz2"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/fpy7ceirumq8"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/g7vh2oynumcu"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/vs7z0hcmhfyg"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/OW9vyd3Am1FZMAy"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/e2wjdxr22qhq"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/11284"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/uz5709tw74sx"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/uRiJx5NfSsWF"
+        }
+      ]
+    },
+    {
+      "id": 15080,
+      "imdb_id": "tt0102587",
+      "title": "Recuerdos del ayer",
+      "overview": "Taeko Okajima es una joven de que pide permiso de vacaciones para poder regresar a casa a Yamagata, el pueblo de su cuñada, y donde de niña vivió los momentos mas felices de toda su vida. En el transcurso de su viaje a la granja de sus familiares y a su posterior residencia, Taeko ira recordando su pasado en el colegio, mientras vive intensamente su presente, sin saber bien qué hacer con su vida y si acceder a las presiones de la familia para casarse con el granjero Toshio con el que le une un poderoso afecto.",
+      "poster_path": "/oRhdS9KvZgQ3MvlKCNAMygCXQW1.jpg",
+      "backdrop_path": "/yhuBrbokvMY8g9eLZ82GFeondIA.jpg",
+      "release_date": "1991-07-20",
+      "rating": "7.4",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Romance"
+      ],
+      "cast": [
+        "今井美樹",
+        "柳葉敏郎",
+        "本名陽子",
+        "飯塚雅弓",
+        "伊藤 暢達"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/11ajpk92b3ft"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/e5mwhxcxrqgz"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/muyo90if6eog"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/j1ccmg7h99z0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/oAPy0GbdjJsJVwr"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/t6wpebrgveg0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/v6TjLVcW5SA6"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/6gifegg99vqc"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/b9rkrf436rkl"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/fjsnkbjp76bm"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/tN5xhHiG9EzE"
+        }
+      ]
+    },
+    {
+      "id": 13888,
+      "imdb_id": "tt0102782",
+      "title": "Regreso al lago azul",
+      "overview": "Dos jóvenes naúfragos mueren dejando solo a su hijo de dos años en la barca. El niño es recogido en alta mar por un barco, donde Sarah Hargrave, que viaja con su pequeña hija, se hace cargo del niño. Al declararse una epidemia de cólera y para evitar una muerte cierta, Sarah y los niños son puestos en una pequeña embarcación que, después de varios días a la deriva, llega a una isla desierta. Al morir Sarah, los jóvenes se quedan solos y deberán luchar por sobrevivir.",
+      "poster_path": "/bmKxZRgUS4MMSKiN70ZkG5JPD6y.jpg",
+      "backdrop_path": "/70tfSdpFBXI8VzELLc015aN9kwa.jpg",
+      "release_date": "1991-08-02",
+      "rating": "6.2",
+      "genres": [
+        "Aventura",
+        "Drama"
+      ],
+      "cast": [
+        "Milla Jovovich",
+        "Brian Krause",
+        "Lisa Pelikan",
+        "Courtney Barilla",
+        "Garette Ratliff Henson"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/lslozjvzo8wy"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/ey8gddxna4tu"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/UxrIyvfMDQHC"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/h0nuhkd8cnvy"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/zc9rjsglqt0c"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/m3m590hc0dcq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/rAx7JRM0RQSb79P"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/7nw2odfzrnfj"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/ck48ekstb004"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/vbf7zwzwz0k2"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/lc8tK1PJs2Jo"
+        }
+      ]
+    },
+    {
+      "id": 8367,
+      "imdb_id": "tt0102798",
+      "title": "Robin Hood, príncipe de los ladrones",
+      "overview": "Robin Hood regresa a su país de origen, cansado tras haber pasado los últimos cinco años luchando en las Cruzadas. A su vuelta se topa con el terror de la población ante el gobierno déspota del hermano Juan del rey Ricardo Corazón de León, un tirano que está en el poder, aprovechando la ausencia de éste. El guerrero, ante esta situación, jura defender a los pobres y para ello se une a las bandas de proscritos que han tomado el bosque de Sherwood como su único hogar libre.",
+      "poster_path": "/b0pJ0SZ9xAEpqo0tx7WOQ9xv8Ns.jpg",
+      "backdrop_path": "/3QqAlmXrteyMFfQCnARBUb4vx3q.jpg",
+      "release_date": "1991-06-14",
+      "rating": "6.9",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Drama"
+      ],
+      "cast": [
+        "Kevin Costner",
+        "Morgan Freeman",
+        "Mary Elizabeth Mastrantonio",
+        "Christian Slater",
+        "Alan Rickman"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/nnpw05piitv0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/koen8fymwsv3"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/kqwnxeQPs3EB"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/bqff9v1hrgk0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/oplycw0t9osa"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/7zis64op34xy"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/v61rd9aledmv"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/8367"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/971ykroca8nl"
+        }
+      ]
+    },
+    {
+      "id": 10249,
+      "imdb_id": "tt0102803",
+      "title": "Rocketeer",
+      "overview": "Un joven piloto encuentra un prototipo de mochila propulsora que le permite convertirse en un héroe enmascarado de altos vuelos.",
+      "poster_path": "/cUJa72hNjxbG3rX8tMqyvWmF3eG.jpg",
+      "backdrop_path": "/glLgVtOI4njeUlwtYCtVi8OR1qr.jpg",
+      "release_date": "1991-06-21",
+      "rating": "6.5",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Familia"
+      ],
+      "cast": [
+        "Billy Campbell",
+        "Jennifer Connelly",
+        "Alan Arkin",
+        "Timothy Dalton",
+        "Paul Sorvino"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/05SuZqiLqm5R"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/uulslh885dql"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/7tdd3oo39c3c"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/c0hspqqux784"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/dkfxddvnznr1"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/7tkgrmbextxr"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/w4JdvePxAPCJkoP"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/8zlx1ie3s2ix"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/3aukjxi9ewo6"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/10249"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Wvpm7PK914xE"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "imdb_id": "tt0102975",
+      "title": "Star Trek VI: Aquel país desconocido",
+      "overview": "Tras años de guerra, la Federación y el Imperio Klingon se disponen a celebrar una conferencia de paz. Pero el panorama de una negociación intergaláctica, con implacables enemigos, preocupa al Almirante Kirk. Cuando una nave Klingon es atacada y responsabilizan al Enterprise, ambos mundos se preparan para el que puede ser su encuentro definitivo.",
+      "poster_path": "/gGRg3zBoZd7DLOCq16zHDAbrLU6.jpg",
+      "backdrop_path": "/nGJTamFPZ9V4JX5YpiOS0UDuwmx.jpg",
+      "release_date": "1991-12-06",
+      "rating": "7.0",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura",
+        "Suspense"
+      ],
+      "cast": [
+        "William Shatner",
+        "Leonard Nimoy",
+        "DeForest Kelley",
+        "James Doohan",
+        "George Takei"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/fynm8dlrvzop"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/gcaqiFPvmwHU"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/9f1fmsjuiyfu"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/2KWdQDw4XOIjWb"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/9ob2rs09iaxn"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/u1zua0eq4jqx"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/z7t0dku7e0dx"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/y342j99po4az"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/174"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/KA3YL84Y0LF00DQ"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/QR4Sk9lnNH41"
+        }
+      ]
+    },
+    {
+      "id": 8222,
+      "imdb_id": "tt0103030",
+      "title": "Tacones lejanos",
+      "overview": "El marido de Rebeca (Victoria Abril) fue en otros tiempos el gran amor de su madre, la diva \"Becky del Páramo\" (Marisa Paredes). Cuando éste muere asesinado, madre e hija vuelven a encontrarse. El juez que lleva el caso (Miguel Bosé) es por la noche una drag-queen que imita a Becky.",
+      "poster_path": "/gRL9CvpBUXjOL5CEgKEKGsB9a0P.jpg",
+      "backdrop_path": "/cVydU2eqkZeQxGTn4KORxknecE.jpg",
+      "release_date": "1991-10-23",
+      "rating": "7.1",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Crimen"
+      ],
+      "cast": [
+        "Victoria Abril",
+        "Marisa Paredes",
+        "Miguel Bosé",
+        "Anna Lizaran",
+        "Mayrata O'Wisiedo"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/wVKPVx2eGwclva"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/zaev0iy6dq19"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/ho5eot85givi"
+        },
+        {
+          "language": "Español",
+          "server_name": "Wolfstream",
+          "embed_url": "https://wolfstream.tv/e/750zrkgwm7cb"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/8222"
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "imdb_id": "tt0103064",
+      "title": "Terminator 2: El juicio final",
+      "overview": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah.",
+      "poster_path": "/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
+      "backdrop_path": "/8MksSPtPvqcSDruLdpibPmTP7LY.jpg",
+      "release_date": "1991-07-03",
+      "rating": "8.1",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong",
+        "Robert Patrick",
+        "Earl Boen"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/c2cp2dj8aa2b"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/hcsvuuXb44Ny"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/tqkqly5tekgv"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/cu2s4i8xabck"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/eknz0on1kphq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/bsxo3lrkcpl9"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/w0pnnqk9v8qw"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/GqdjdS4e0f77"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/94gmgo0oj699"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/280"
+        }
+      ]
+    },
+    {
+      "id": 10537,
+      "imdb_id": "tt0101761",
+      "title": "The Doors",
+      "overview": "Jim Morrison, cabeza visible de The Doors, para muchos fue un regalo de Dios; para otros, un vástago del Diablo. Vivió al límite, en una anárquica carrera autodestructiva salpicada de escándalos y arrebatos de ira y de pasión que lo hundieron en un abismo de sexo, alcohol y drogas.",
+      "poster_path": "/xa5dn3u0pwFcbWqANxZt0LTQCka.jpg",
+      "backdrop_path": "/7yxnEmsXoFExyt8bxjWuroTDBgM.jpg",
+      "release_date": "1991-03-01",
+      "rating": "7.1",
+      "genres": [
+        "Música",
+        "Drama",
+        "Historia"
+      ],
+      "cast": [
+        "Val Kilmer",
+        "Meg Ryan",
+        "Kyle MacLachlan",
+        "Frank Whaley",
+        "Kevin Dillon"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/380nqgqnizdb"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/jmf0pq9bgs1r"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/183grg5ijmvf"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/eOLX9xfOniQm"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/K9QXMRKb28h0RLl"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/n1june9jnl8s"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/8z9u1opnqw0j"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/9o4spaah8efc"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/uacmxe8qyafo"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/6evM7rmtR1ht"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/frah0hkahsdp"
+        }
+      ]
+    },
+    {
+      "id": 1541,
+      "imdb_id": "tt0103074",
+      "title": "Thelma y Louise",
+      "overview": "Thelma Dickinson, un ama de casa de vida vacía y anodina, está casada con un cretino detestable que la trata como a una niña. Por su parte, Louise Sawyer trabaja como camarera en una cafetería y sueña con que su novio Jimmy, que es músico, se case con ella. Un fin de semana deciden hacer un viaje juntas en el coche de Louise para alejarse de la mortal rutina de sus vidas y de todas sus frustraciones. Sin embargo, su escapada, que prometía ser divertida y, sobre todo, liberadora, acaba siendo una experiencia llena de episodios dramáticos.",
+      "poster_path": "/zS4vosCL144152a1hlU2vbiv8cO.jpg",
+      "backdrop_path": "/gXPtXbvI0nfLihu1dXgehAxsvm1.jpg",
+      "release_date": "1991-05-24",
+      "rating": "7.6",
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Crimen",
+        "Aventura"
+      ],
+      "cast": [
+        "Susan Sarandon",
+        "Geena Davis",
+        "Harvey Keitel",
+        "Michael Madsen",
+        "Christopher McDonald"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/AGugan1mcKro"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/b7w79mid3vfb"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/hb5xbo77ung6"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/pojhwgr88z5m"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/IYBNKjzDoARY"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/x6zz5jchy6oq"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/1541"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/xh5o8wlgnxk1"
+        }
+      ]
+    },
+    {
+      "id": 17474,
+      "imdb_id": "tt0102388",
+      "title": "Verano en Louisiana",
+      "overview": "Durante el verano de 1957, en una pequeña granja de Lousiana, dos hermanas llamadas Danielle y Maureen se enamorarán del mismo chico, Court, un joven de 17 años que llega con su madre y sus hermanos para trabajar las tierras vecinas. Su rivalidad para conseguir la atención de Court pondrá en peligro la excelente relación que las chicas habían tenido hasta entonces.",
+      "poster_path": "/57r0TXlqV5GIn4h0Htgh81OZou9.jpg",
+      "backdrop_path": "/8odZHjwMWWUg2gntUjndLIb8sT0.jpg",
+      "release_date": "1991-09-30",
+      "rating": "7.4",
+      "genres": [
+        "Drama",
+        "Familia",
+        "Romance"
+      ],
+      "cast": [
+        "Sam Waterston",
+        "Tess Harper",
+        "Gail Strickland",
+        "Reese Witherspoon",
+        "Jason London"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/uwevxgvnarng"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/rmrvn4nq9f6w"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/htb41tocwrew"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/5jnh8j8jfvhf"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Pu3z1MZTt1xn"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/17474"
         }
       ]
     }
