@@ -50341,6 +50341,141 @@
           "embed_url": "https://vidsrc.to/embed/movie/12594"
         }
       ]
+    },
+    {
+      "id": 170,
+      "imdb_id": "tt0289043",
+      "title": "28 días después",
+      "overview": "Londres es un cementerio. Las calles están ahora desiertas. Reina un silencio total. Tras la propagación de un virus que acabó con la mayor parte de la población, tuvo lugar la invasión de unos seres terroríficos. El virus se difundió, tras la incursión en un laboratorio, de un grupo de defensores de los derechos de los animales. Transmitido por la sangre, el virus produce efectos devastadores. En 28 días la epidemia se extiende por todo el país y sólo queda un puñado de supervivientes...",
+      "poster_path": "/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
+      "backdrop_path": "/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
+      "release_date": "2002-10-31",
+      "rating": "7.2",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Cillian Murphy",
+        "Naomie Harris",
+        "Brendan Gleeson",
+        "Megan Burns",
+        "Christopher Eccleston"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/jpy6215j0cnb"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/y1lzu4suuj5k"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/pcaBNx6VSQ3P"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/DA704RQgqDSk2RQ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/c2f3gfyblnx6"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/3s2zfcongh5e"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/oy9x7frnhdal"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/sEyW2OztJh2q"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/dsxmvfqpycjy"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/170"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/o5m0gfgq47ed"
+        }
+      ]
+    },
+    {
+      "id": 1100988,
+      "imdb_id": "tt10548174",
+      "title": "28 años después",
+      "overview": "Años transcurridos tras los sucesos de \"28 semanas después\", el virus de la ira ha regresado y un grupo de supervivientes debe sobrevivir en un mundo asolado por hordas de infectados. Rodada con un iPhone 15 Pro Max y con la ayuda de numerosos accesorios especializados.",
+      "poster_path": "/hvIqaDUC48dwfd7taKczB7909Qg.jpg",
+      "backdrop_path": "/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+      "release_date": "2025-06-18",
+      "rating": "7.1",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Alfie Williams",
+        "Jodie Comer",
+        "Aaron Taylor-Johnson",
+        "Ralph Fiennes",
+        "Jack O'Connell"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/ggl9zjpcidgw"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/hhdh848m7o0d"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/W1i3amkGdWlg"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/m26dzdi4rzr5"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/ho1ittj0t9c0"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/1100988"
+        }
+      ]
     }
   ],
   "series": []
