@@ -117505,6 +117505,81 @@
           "embed_url": "https://vidsrc.to/embed/movie/8329"
         }
       ]
+    },
+    {
+      "id": 1233413,
+      "imdb_id": "tt31193180",
+      "title": "Los pecadores",
+      "overview": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
+      "poster_path": "/jIVa5m9s7bKYdI0KH8wFw1qLxHl.jpg",
+      "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "release_date": "2025-04-16",
+      "rating": "7.6",
+      "genres": [
+        "Terror",
+        "Acción",
+        "Suspense"
+      ],
+      "cast": [
+        "Michael B. Jordan",
+        "Hailee Steinfeld",
+        "Miles Caton",
+        "Jack O'Connell",
+        "Wunmi Mosaku"
+      ],
+      "type": "Película",
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/l7tvykhgkecc"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/0rtlvd7wgmwk"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/ba0d0qwrr7h0"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/dkfutbzebc5u"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/qQSyyhuYYzZQ"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/r4bdqqx9ee3k"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/1233413"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/pdpgsnxzjibx"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/ci1l42fbkg2m"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/njgz8gsxhmgw"
+        }
+      ]
     }
   ],
   "series": []
